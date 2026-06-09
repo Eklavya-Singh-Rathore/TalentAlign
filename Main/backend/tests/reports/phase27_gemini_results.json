@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "generated": "2026-06-09T05:30:00+00:00",
+    "mode": "gemini",
+    "embedding_backend": "tfidf",
+    "llm_backend": "gemini",
+    "model": "gemini-2.5-flash",
+    "resumes": ["AKASH", "Ananya", "Eklavya", "Rohit", "VIGNESH", "Wallace"],
+    "jds": ["JD-1", "JD-2", "JD-3", "JD-4", "JD-5", "JD-6", "JD-7", "JD-8", "JD-9"],
+    "pairs": 54,
+    "successful_pairs": 0,
+    "failed_pairs": 0,
+    "status": "aborted_quota_exhausted",
+    "notes": [
+      "Run was aborted after hitting Gemini free-tier rate limit (HTTP 429 RESOURCE_EXHAUSTED).",
+      "The full Phase 27 Gemini sweep requires ~540 API calls (54 pairs × ~10 LLM calls each: JD enrichment + experience enrichment + project enrichment batch + skill-matcher validation gate + explanation polishing).",
+      "Free tier on gemini-2.5-flash is ~10 RPM / 1500 RPD — insufficient for a 54-pair sweep without throttling.",
+      "Gemini integration is verified independently via D1 (7/7 live_llm-marked tests passed in 73.93s on 2026-06-09). See tests/llm/test_*_live.py.",
+      "To complete the full 54-pair Gemini sweep, upgrade the API key tier and re-run: `python tests/phase27_validation.py --mode gemini`."
+    ]
+  },
+  "results": {},
+  "failures": [],
+  "d1_evidence": {
+    "description": "Live Gemini integration validated by the 7 live_llm-marked tests (skipped by default unless GEMINI_API_KEY is set).",
+    "passed": [
+      "tests/llm/test_experience_enrichment_live.py::test_experience_enrichment_against_gemini",
+      "tests/llm/test_jd_enrichment_live.py::test_jd_enrichment_against_gemini[JD_1.docx]",
+      "tests/llm/test_jd_enrichment_live.py::test_jd_enrichment_against_gemini[JD_2.docx]",
+      "tests/llm/test_jd_enrichment_live.py::test_jd_enrichment_against_gemini[JD_3.docx]",
+      "tests/llm/test_jd_enrichment_live.py::test_jd_enrichment_against_gemini[JD_4.docx]",
+      "tests/llm/test_jd_enrichment_live.py::test_jd_enrichment_against_gemini[JD_5.docx]",
+      "tests/llm/test_project_enrichment_live.py::test_eklavya_x_jd1_project_enrichment"
+    ],
+    "wallclock_seconds": 73.93,
+    "result": "all passed — Gemini 2.5 Flash auth, schema-validated responses, and graceful 4xx/timeout handling all confirmed end-to-end."
+  }
+}

@@ -1,0 +1,424 @@
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data interpretation","jd_phrase":"data representation","cosine":0.6629,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"feature selection","jd_phrase":"machine learning","cosine":0.5936,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data analyst","jd_phrase":"data representation methods","cosine":0.5052,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"python","jd_phrase":"scikit-learn","cosine":0.4557,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"model comparisons","jd_phrase":"data modeling","cosine":0.4517,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data interpretation","jd_phrase":"statistics","cosine":0.4054,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"python","jd_phrase":"java","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"python","jd_phrase":"pytorch","cosine":0.4304,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"excel","jd_phrase":"data representation methods","cosine":0.4208,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"excel","jd_phrase":"data modeling","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"excel","jd_phrase":"statistics","cosine":0.4337,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data science consultant","jd_phrase":"data representation methods","cosine":0.4025,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data science consultant","jd_phrase":"data representation","cosine":0.4328,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data analyst","jd_phrase":"machine learning","cosine":0.4323,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data analyst","jd_phrase":"statistics","cosine":0.4064,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"data analyst","jd_phrase":"b.tech","cosine":0.4046,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"model benchmarking","jd_phrase":"machine learning frameworks","cosine":0.4044,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-1","resume_phrase":"model benchmarking","jd_phrase":"data modeling","cosine":0.4404,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data science consultant","jd_phrase":"data science","cosine":0.7533,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"google suite","jd_phrase":"google cloud platform","cosine":0.637,"token_overlap":0.3333,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"feature selection","jd_phrase":"machine learning","cosine":0.5936,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"python","jd_phrase":"artificial intelligence","cosine":0.4678,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"linkedin.com","jd_phrase":"google","cosine":0.4134,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"python","jd_phrase":"intelligent applications","cosine":0.4042,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"python","jd_phrase":"java","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"excel","jd_phrase":"ml application","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data science consultant","jd_phrase":"ml application development","cosine":0.4423,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data analyst","jd_phrase":"ml application development","cosine":0.4047,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data analyst","jd_phrase":"machine learning","cosine":0.4323,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data analyst","jd_phrase":"artificial intelligence","cosine":0.4257,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data analyst","jd_phrase":"ai applications","cosine":0.4069,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"data analyst","jd_phrase":"ml application","cosine":0.4437,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-2","resume_phrase":"feature selection","jd_phrase":"artificial intelligence","cosine":0.4088,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data science consultant","jd_phrase":"data science","cosine":0.7533,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"python","jd_phrase":"python fundamentals","cosine":0.7429,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"feature selection","jd_phrase":"machine learning","cosine":0.5936,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data analyst","jd_phrase":"data systems","cosine":0.5358,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"excel","jd_phrase":"data preparation","cosine":0.4707,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data interpretation","jd_phrase":"intelligent data","cosine":0.464,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data interpretation","jd_phrase":"data preparation","cosine":0.4437,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data interpretation","jd_phrase":"data systems","cosine":0.4283,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"python","jd_phrase":"tensorflow","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"sql","jd_phrase":"data science","cosine":0.4429,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"sql","jd_phrase":"data systems","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data analyst","jd_phrase":"intelligent data systems","cosine":0.4305,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data analyst","jd_phrase":"artificial intelligence","cosine":0.4257,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data analyst","jd_phrase":"machine learning","cosine":0.4323,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"data analyst","jd_phrase":"intelligent data","cosine":0.4189,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-3","resume_phrase":"feature selection","jd_phrase":"artificial intelligence","cosine":0.4088,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"feature selection","jd_phrase":"machine learning","cosine":0.5936,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"model benchmarking","jd_phrase":"open-source models","cosine":0.5097,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"model comparisons","jd_phrase":"learning models","cosine":0.4926,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"data analyst","jd_phrase":"machine learning","cosine":0.4323,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"model comparisons","jd_phrase":"open-source models","cosine":0.441,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"model comparisons","jd_phrase":"language models","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"model benchmarking","jd_phrase":"deep learning models","cosine":0.4366,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"model benchmarking","jd_phrase":"language models","cosine":0.4133,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-4","resume_phrase":"feature selection","jd_phrase":"neural networks","cosine":0.4301,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"model comparisons","jd_phrase":"model evaluation","cosine":0.6698,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"model benchmarking","jd_phrase":"model evaluation frameworks","cosine":0.5749,"token_overlap":0.3333,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"data analyst","jd_phrase":"data processing","cosine":0.5634,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"google suite","jd_phrase":"google","cosine":0.5443,"token_overlap":0.5,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"feature selection","jd_phrase":"retrieval methods","cosine":0.4788,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"linkedin.com","jd_phrase":"google","cosine":0.4134,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"data interpretation","jd_phrase":"unstructured data","cosine":0.4335,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"python","jd_phrase":"java","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"excel","jd_phrase":"data processing","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"model comparisons","jd_phrase":"retrieval methods","cosine":0.4085,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"model benchmarking","jd_phrase":"evaluation frameworks","cosine":0.4042,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"feature selection","jd_phrase":"efficient retrieval methods","cosine":0.4144,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"feature selection","jd_phrase":"efficient retrieval","cosine":0.4068,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-5","resume_phrase":"feature selection","jd_phrase":"data processing","cosine":0.4075,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"data science consultant","jd_phrase":"computer science","cosine":0.5678,"token_overlap":0.5,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"data interpretation","jd_phrase":"data structures","cosine":0.5073,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"excel","jd_phrase":"ms office","cosine":0.4954,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"python","jd_phrase":"application software","cosine":0.4597,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"sql","jd_phrase":"data structures","cosine":0.4066,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"google suite","jd_phrase":"application software","cosine":0.4339,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"data analyst","jd_phrase":"exceptional analytical skills","cosine":0.4101,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"data analyst","jd_phrase":"data structures","cosine":0.4089,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"data analyst","jd_phrase":"ms office","cosine":0.4061,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-6","resume_phrase":"data analyst","jd_phrase":"analytical skills","cosine":0.4436,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-7","resume_phrase":"sql","jd_phrase":"database","cosine":0.6956,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-7","resume_phrase":"data interpretation","jd_phrase":"database","cosine":0.402,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-7","resume_phrase":"python","jd_phrase":"java","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-7","resume_phrase":"excel","jd_phrase":"database","cosine":0.4015,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-7","resume_phrase":"google suite","jd_phrase":"app engine","cosine":0.4234,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-7","resume_phrase":"data analyst","jd_phrase":"database","cosine":0.4314,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"data science consultant","jd_phrase":"data engineering","cosine":0.5973,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"data interpretation","jd_phrase":"data handling","cosine":0.5701,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"google suite","jd_phrase":"preferably gcp","cosine":0.5048,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"python","jd_phrase":"artificial intelligence","cosine":0.4678,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"sql","jd_phrase":"data engineering","cosine":0.4467,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"excel","jd_phrase":"data handling","cosine":0.4262,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"data science consultant","jd_phrase":"ml development","cosine":0.4326,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"data science consultant","jd_phrase":"data handling","cosine":0.4412,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"data analyst","jd_phrase":"ml development","cosine":0.4125,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"data analyst","jd_phrase":"artificial intelligence","cosine":0.4257,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-8","resume_phrase":"feature selection","jd_phrase":"artificial intelligence","cosine":0.4088,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data science consultant","jd_phrase":"data science","cosine":0.7533,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data analyst","jd_phrase":"business analyst","cosine":0.7371,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"feature selection","jd_phrase":"machine learning","cosine":0.5936,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data interpretation","jd_phrase":"performing data","cosine":0.5535,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"excel","jd_phrase":"advanced analytics","cosine":0.4103,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"excel","jd_phrase":"in python","cosine":0.4085,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data science consultant","jd_phrase":"role business analyst","cosine":0.4328,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data science consultant","jd_phrase":"performing data","cosine":0.4485,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data analyst","jd_phrase":"machine learning","cosine":0.4323,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"data analyst","jd_phrase":"data preprocessing","cosine":0.4314,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Ananya_Joshi","jd":"JD-9","resume_phrase":"feature selection","jd_phrase":"neural networks","cosine":0.4301,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"data science","jd_phrase":"data representation","cosine":0.5979,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"database","jd_phrase":"nosql","cosine":0.5639,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"exploratory data analysis","jd_phrase":"data representation methods","cosine":0.5139,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"deep learning","jd_phrase":"machine learning frameworks","cosine":0.4858,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"c/c++","jd_phrase":"software architecture","cosine":0.4131,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"deep learning","jd_phrase":"data representation methods","cosine":0.4015,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"deep learning","jd_phrase":"representation methods","cosine":0.4196,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"deep learning","jd_phrase":"data representation","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"natural language processing","jd_phrase":"data representation methods","cosine":0.4034,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"natural language processing","jd_phrase":"data representation","cosine":0.4076,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"data pipeline","jd_phrase":"data representation methods","cosine":0.4159,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"data quality assurance","jd_phrase":"data representation","cosine":0.4129,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"data science","jd_phrase":"machine learning frameworks","cosine":0.4433,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"database","jd_phrase":"data representation methods","cosine":0.4346,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-1","resume_phrase":"programming","jd_phrase":"software architecture","cosine":0.4076,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"database","jd_phrase":"vector databases","cosine":0.5765,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"data pipeline","jd_phrase":"deployment pipelines","cosine":0.567,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"programming","jd_phrase":"game development","cosine":0.5202,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"data modeling","jd_phrase":"ml application","cosine":0.49,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"python","jd_phrase":"artificial intelligence","cosine":0.4678,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"natural language processing","jd_phrase":"large language models","cosine":0.4548,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"python","jd_phrase":"intelligent applications","cosine":0.4042,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"natural language processing","jd_phrase":"artificial intelligence","cosine":0.4293,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"data modeling","jd_phrase":"ml application development","cosine":0.4432,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"data modeling","jd_phrase":"vector databases","cosine":0.413,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"programming","jd_phrase":"intelligent applications","cosine":0.4144,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"programming","jd_phrase":"developer productivity","cosine":0.4274,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"programming","jd_phrase":"ai applications","cosine":0.4224,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-2","resume_phrase":"programming","jd_phrase":"ml application","cosine":0.4079,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"python","jd_phrase":"python fundamentals","cosine":0.7429,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data preprocessing","jd_phrase":"data preparation","cosine":0.7062,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"database","jd_phrase":"data systems","cosine":0.599,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"deep learning","jd_phrase":"artificial intelligence","cosine":0.5899,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data modeling","jd_phrase":"intelligent data","cosine":0.5238,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"ai projects","cosine":0.4782,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"scikit-learn","jd_phrase":"learning fundamentals","cosine":0.4759,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"cloud computing","jd_phrase":"intelligent data systems","cosine":0.4754,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"python","jd_phrase":"tensorflow","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"sql","jd_phrase":"data systems","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"natural language processing","jd_phrase":"artificial intelligence","cosine":0.4293,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"natural language processing","jd_phrase":"intelligent data","cosine":0.4062,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"exploratory data analysis","jd_phrase":"data systems","cosine":0.4482,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"exploratory data analysis","jd_phrase":"intelligent data","cosine":0.4418,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data pipeline","jd_phrase":"intelligent data systems","cosine":0.4452,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data pipeline","jd_phrase":"intelligent data","cosine":0.4394,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data preprocessing","jd_phrase":"intelligent data","cosine":0.4008,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data quality assurance","jd_phrase":"intelligent data systems","cosine":0.4238,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"data quality assurance","jd_phrase":"intelligent data","cosine":0.4165,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"databricks","jd_phrase":"intelligent data systems","cosine":0.403,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"cloud computing","jd_phrase":"artificial intelligence","cosine":0.4223,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"academic ai projects","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"python fundamentals","cosine":0.4467,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"structured problem-solving","cosine":0.4198,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"automation systems","cosine":0.4249,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"academic ai","cosine":0.4148,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"programming","jd_phrase":"data systems","cosine":0.4107,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-3","resume_phrase":"scikit-learn","jd_phrase":"python fundamentals","cosine":0.4307,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"transformers","jd_phrase":"transformer models","cosine":0.6488,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"data modeling","jd_phrase":"learning models","cosine":0.6347,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"programming","jd_phrase":"skills python","cosine":0.5005,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"data modeling","jd_phrase":"neural networks","cosine":0.4075,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"data science","jd_phrase":"natural language","cosine":0.4171,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"programming","jd_phrase":"key skills python","cosine":0.4408,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-4","resume_phrase":"programming","jd_phrase":"natural language","cosine":0.4387,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data science","jd_phrase":"data processing","cosine":0.649,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data pipeline","jd_phrase":"cd pipelines","cosine":0.5989,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data modeling","jd_phrase":"model","cosine":0.6143,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"database","jd_phrase":"vector databases","cosine":0.5765,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"programming","jd_phrase":"program requirements","cosine":0.5382,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"natural language processing","jd_phrase":"unstructured data processing","cosine":0.4887,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"retrieval methods","cosine":0.4638,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"deep learning","jd_phrase":"model","cosine":0.4089,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"exploratory data analysis","jd_phrase":"data processing","cosine":0.4015,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"exploratory data analysis","jd_phrase":"unstructured data","cosine":0.4302,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data pipeline","jd_phrase":"unstructured data","cosine":0.4179,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data preprocessing","jd_phrase":"unstructured data","cosine":0.4392,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data modeling","jd_phrase":"unstructured data processing","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data modeling","jd_phrase":"vector databases","cosine":0.413,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"data science","jd_phrase":"unstructured data","cosine":0.439,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"database","jd_phrase":"unstructured data processing","cosine":0.442,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"database","jd_phrase":"model","cosine":0.403,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"vector databases","cosine":0.427,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"model evaluation","cosine":0.4272,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"model","cosine":0.4402,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"google","cosine":0.4498,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"data science","jd_phrase":"computer science","cosine":0.7151,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"data modeling","jd_phrase":"data structures","cosine":0.5719,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"programming","jd_phrase":"application software","cosine":0.5066,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"java","jd_phrase":"object oriented","cosine":0.4951,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"sql","jd_phrase":"data structures","cosine":0.4066,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"c/c++","jd_phrase":"object oriented","cosine":0.432,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"exploratory data analysis","jd_phrase":"data structures","cosine":0.4247,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"azure","jd_phrase":"ms office","cosine":0.4049,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"cloud computing","jd_phrase":"amazon web services","cosine":0.4428,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"cloud computing","jd_phrase":"computer science","cosine":0.4352,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"machine learning","jd_phrase":"computer science","cosine":0.4203,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"programming","jd_phrase":"object oriented design","cosine":0.4157,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"programming","jd_phrase":"object-oriented design","cosine":0.4113,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"programming","jd_phrase":"strong computer","cosine":0.4152,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-6","resume_phrase":"programming","jd_phrase":"object oriented","cosine":0.4318,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-7","resume_phrase":"git/github","jd_phrase":"git","cosine":0.7815,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-7","resume_phrase":"sql","jd_phrase":"mysql","cosine":0.6874,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-7","resume_phrase":"programming","jd_phrase":"well-documented code","cosine":0.4726,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-7","resume_phrase":"php","jd_phrase":"html 5","cosine":0.407,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-7","resume_phrase":"jupyter notebook","jd_phrase":"scrapy cloud","cosine":0.4126,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"artificial intelligence","cosine":0.7035,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data preprocessing","jd_phrase":"data handling","cosine":0.6255,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"natural language processing","jd_phrase":"documents learnings","cosine":0.4935,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"azure","jd_phrase":"cloud storage","cosine":0.4612,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data quality assurance","jd_phrase":"data handling policies","cosine":0.4551,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"programming","jd_phrase":"coding standards","cosine":0.4548,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"deep learning","jd_phrase":"ml development","cosine":0.4037,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"deep learning","jd_phrase":"ml concepts","cosine":0.4102,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"deep learning","jd_phrase":"documents learnings","cosine":0.4451,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"natural language processing","jd_phrase":"artificial intelligence","cosine":0.4293,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data preprocessing","jd_phrase":"data handling policies","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data modeling","jd_phrase":"data handling policies","cosine":0.4201,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data modeling","jd_phrase":"ml concepts","cosine":0.4392,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data science","jd_phrase":"data handling policies","cosine":0.4221,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data science","jd_phrase":"ml development","cosine":0.4377,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"data science","jd_phrase":"ml concepts","cosine":0.4227,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"ai workflows","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"to ai","cosine":0.4269,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"programming","jd_phrase":"ml development","cosine":0.4244,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"programming","jd_phrase":"ai workflows","cosine":0.4346,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"scikit-learn","jd_phrase":"documents learnings","cosine":0.4028,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-8","resume_phrase":"statistics","jd_phrase":"outcomes kpis","cosine":0.4244,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"data quality assurance","jd_phrase":"performing data cleaning","cosine":0.5327,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"data modeling","jd_phrase":"performing data","cosine":0.576,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"exploratory data analysis","jd_phrase":"advanced analytics","cosine":0.5331,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"numpy","jd_phrase":"in python","cosine":0.5289,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"programming","jd_phrase":"proficient in python","cosine":0.5142,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"data modeling","jd_phrase":"advanced analytics","cosine":0.4261,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"data quality assurance","jd_phrase":"performing data","cosine":0.4112,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"database","jd_phrase":"performing data cleaning","cosine":0.4381,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"programming","jd_phrase":"professional development","cosine":0.4237,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"scikit-learn","jd_phrase":"in python","cosine":0.4107,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya_Singh_Rathore","jd":"JD-9","resume_phrase":"statistics","jd_phrase":"performing data","cosine":0.4053,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"data structures","jd_phrase":"data representation","cosine":0.6768,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"data science","jd_phrase":"data representation methods","cosine":0.571,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"classification","jd_phrase":"machine learning frameworks","cosine":0.5494,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"regression","jd_phrase":"data modeling","cosine":0.4817,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"numpy","jd_phrase":"pytorch","cosine":0.4555,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"python","jd_phrase":"pytorch","cosine":0.4304,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"supervised unsupervised learning","jd_phrase":"data representation methods","cosine":0.4461,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"supervised unsupervised learning","jd_phrase":"decision forests","cosine":0.4109,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"supervised unsupervised learning","jd_phrase":"learning frameworks","cosine":0.431,"token_overlap":0.3333,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"supervised unsupervised learning","jd_phrase":"representation methods","cosine":0.4157,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"supervised unsupervised learning","jd_phrase":"data representation","cosine":0.435,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"classification","jd_phrase":"learning frameworks","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"excel","jd_phrase":"data representation methods","cosine":0.4208,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"excel","jd_phrase":"data modeling","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"data science","jd_phrase":"machine learning frameworks","cosine":0.4433,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-1","resume_phrase":"programming","jd_phrase":"software architecture","cosine":0.4076,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"aws","jd_phrase":"aws. docker","cosine":0.6225,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"data structures","jd_phrase":"vector databases","cosine":0.5604,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"classification","jd_phrase":"artificial intelligence","cosine":0.5242,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"programming","jd_phrase":"game development","cosine":0.5202,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"amazon web services","jd_phrase":"backend services","cosine":0.5142,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"supervised unsupervised learning","jd_phrase":"deep learning","cosine":0.4582,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"python","jd_phrase":"intelligent applications","cosine":0.4042,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"supervised unsupervised learning","jd_phrase":"generative ai applications","cosine":0.4324,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"classification","jd_phrase":"generative ai applications","cosine":0.4259,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"classification","jd_phrase":"generative ai","cosine":0.45,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"classification","jd_phrase":"vector databases","cosine":0.4185,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"classification","jd_phrase":"intelligent applications","cosine":0.422,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"classification","jd_phrase":"ml application","cosine":0.4258,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"tf-idf","jd_phrase":"large language models","cosine":0.4143,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"excel","jd_phrase":"ml application","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"amazon web services","jd_phrase":"cloud infrastructure","cosine":0.4232,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"amazon web services","jd_phrase":"aws. docker","cosine":0.4039,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"programming","jd_phrase":"intelligent applications","cosine":0.4144,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"programming","jd_phrase":"developer productivity","cosine":0.4274,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"programming","jd_phrase":"ai applications","cosine":0.4224,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-2","resume_phrase":"programming","jd_phrase":"ml application","cosine":0.4079,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"python","jd_phrase":"python fundamentals","cosine":0.7429,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"data structures","jd_phrase":"data systems","cosine":0.6488,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"classification","jd_phrase":"machine learning fundamentals","cosine":0.584,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"artificial intelligence","cosine":0.5013,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"scikit-learn","jd_phrase":"learning fundamentals","cosine":0.4759,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"cloud computing","jd_phrase":"intelligent data systems","cosine":0.4754,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"excel","jd_phrase":"data preparation","cosine":0.4707,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"python","jd_phrase":"tensorflow","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"sql","jd_phrase":"data systems","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"supervised unsupervised learning","jd_phrase":"intelligent data","cosine":0.4324,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"classification","jd_phrase":"practical ai","cosine":0.4116,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"scikit-learn","jd_phrase":"python fundamentals","cosine":0.4307,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"aws","jd_phrase":"data systems","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"cloud computing","jd_phrase":"artificial intelligence","cosine":0.4223,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"academic ai projects","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"python fundamentals","cosine":0.4467,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"structured problem-solving","cosine":0.4198,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"automation systems","cosine":0.4249,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"academic ai","cosine":0.4148,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-3","resume_phrase":"programming","jd_phrase":"data systems","cosine":0.4107,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"classification","jd_phrase":"learning models","cosine":0.6079,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"tf-idf","jd_phrase":"language processing","cosine":0.5179,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"programming","jd_phrase":"skills python","cosine":0.5005,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"supervised unsupervised learning","jd_phrase":"deep learning","cosine":0.4582,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"numpy","jd_phrase":"pytorch","cosine":0.4555,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"supervised unsupervised learning","jd_phrase":"deep learning models","cosine":0.4282,"token_overlap":0.3333,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"supervised unsupervised learning","jd_phrase":"neural networks","cosine":0.4325,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"classification","jd_phrase":"natural language processing","cosine":0.4259,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"classification","jd_phrase":"sentiment detection","cosine":0.4424,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"classification","jd_phrase":"language models","cosine":0.401,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"classification","jd_phrase":"language processing","cosine":0.4346,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"regression","jd_phrase":"neural networks","cosine":0.443,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"tf-idf","jd_phrase":"large language models","cosine":0.4143,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"tf-idf","jd_phrase":"natural language processing","cosine":0.4286,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"tf-idf","jd_phrase":"language models","cosine":0.4006,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"tf-idf","jd_phrase":"large language","cosine":0.4024,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"tf-idf","jd_phrase":"natural language","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"scikit-learn","jd_phrase":"pytorch","cosine":0.4162,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"data structures","jd_phrase":"language processing","cosine":0.4155,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"data structures","jd_phrase":"natural language","cosine":0.4122,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"data science","jd_phrase":"natural language","cosine":0.4171,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"programming","jd_phrase":"key skills python","cosine":0.4408,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-4","resume_phrase":"programming","jd_phrase":"natural language","cosine":0.4387,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"data structures","jd_phrase":"unstructured data","cosine":0.6551,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"data science","jd_phrase":"data processing","cosine":0.649,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"programming","jd_phrase":"program requirements","cosine":0.5382,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"classification","jd_phrase":"retrieval methods","cosine":0.5207,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"regression","jd_phrase":"model","cosine":0.4637,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"css","jd_phrase":"ui","cosine":0.4443,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"supervised unsupervised learning","jd_phrase":"embedding techniques","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"classification","jd_phrase":"efficient retrieval methods","cosine":0.4344,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"classification","jd_phrase":"vector databases","cosine":0.4185,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"classification","jd_phrase":"risk identification","cosine":0.4252,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"classification","jd_phrase":"efficient retrieval","cosine":0.4141,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"classification","jd_phrase":"model","cosine":0.4148,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"regression","jd_phrase":"model evaluation","cosine":0.4094,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"tf-idf","jd_phrase":"efficient retrieval methods","cosine":0.4124,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"tf-idf","jd_phrase":"large language models","cosine":0.4143,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"tf-idf","jd_phrase":"retrieval methods","cosine":0.4179,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"tf-idf","jd_phrase":"efficient retrieval","cosine":0.4085,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"excel","jd_phrase":"data processing","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"data science","jd_phrase":"unstructured data","cosine":0.439,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"vector databases","cosine":0.427,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"model evaluation","cosine":0.4272,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"model","cosine":0.4402,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-5","resume_phrase":"machine learning","jd_phrase":"google","cosine":0.4498,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"data science","jd_phrase":"computer science","cosine":0.7151,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"programming","jd_phrase":"application software","cosine":0.5066,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"excel","jd_phrase":"ms office","cosine":0.4954,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"java","jd_phrase":"object oriented","cosine":0.4951,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"classification","jd_phrase":"object oriented","cosine":0.4079,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"cloud computing","jd_phrase":"computer science","cosine":0.4352,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"machine learning","jd_phrase":"computer science","cosine":0.4203,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"programming","jd_phrase":"object oriented design","cosine":0.4157,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"programming","jd_phrase":"object-oriented design","cosine":0.4113,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"programming","jd_phrase":"strong computer","cosine":0.4152,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-6","resume_phrase":"programming","jd_phrase":"object oriented","cosine":0.4318,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"sql","jd_phrase":"database","cosine":0.6956,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"php","jd_phrase":"mysql","cosine":0.5017,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"amazon web services","jd_phrase":"web apis","cosine":0.4796,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"programming","jd_phrase":"well-documented code","cosine":0.4726,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"php","jd_phrase":"html 5","cosine":0.407,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"data structures","jd_phrase":"nosql","cosine":0.401,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-7","resume_phrase":"excel","jd_phrase":"database","cosine":0.4015,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"data science","jd_phrase":"data engineering","cosine":0.7396,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"artificial intelligence","cosine":0.7035,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"data structures","jd_phrase":"data handling","cosine":0.6383,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"classification","jd_phrase":"ml concepts","cosine":0.5462,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"vs code","jd_phrase":"respects coding","cosine":0.5035,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"supervised unsupervised learning","jd_phrase":"documents learnings","cosine":0.4904,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"programming","jd_phrase":"coding standards","cosine":0.4548,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"aws","jd_phrase":"cloud storage","cosine":0.4405,"token_overlap":0.4,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"sql","jd_phrase":"data engineering","cosine":0.4467,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"supervised unsupervised learning","jd_phrase":"ml concepts","cosine":0.4255,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"regression","jd_phrase":"ml development","cosine":0.4046,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"tf-idf","jd_phrase":"documents learnings","cosine":0.4489,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"scikit-learn","jd_phrase":"documents learnings","cosine":0.4028,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"data structures","jd_phrase":"data handling policies","cosine":0.4392,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"excel","jd_phrase":"data handling","cosine":0.4262,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"amazon web services","jd_phrase":"cloud storage","cosine":0.4071,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"data science","jd_phrase":"data handling policies","cosine":0.4221,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"data science","jd_phrase":"ml development","cosine":0.4377,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"data science","jd_phrase":"ml concepts","cosine":0.4227,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"data engineering","cosine":0.4129,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"ai workflows","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"machine learning","jd_phrase":"to ai","cosine":0.4269,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"programming","jd_phrase":"data engineering","cosine":0.4482,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"programming","jd_phrase":"ml development","cosine":0.4244,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"programming","jd_phrase":"ai workflows","cosine":0.4346,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-8","resume_phrase":"statistics","jd_phrase":"outcomes kpis","cosine":0.4244,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"classification","jd_phrase":"neural networks","cosine":0.6009,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"data structures","jd_phrase":"performing data","cosine":0.5454,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"numpy","jd_phrase":"in python","cosine":0.5289,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"statistics","jd_phrase":"advanced analytics","cosine":0.5189,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"programming","jd_phrase":"proficient in python","cosine":0.5142,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"vs code","jd_phrase":"codes of","cosine":0.477,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"supervised unsupervised learning","jd_phrase":"neural networks","cosine":0.4325,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"regression","jd_phrase":"neural networks","cosine":0.443,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"regression","jd_phrase":"advanced analytics","cosine":0.4064,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"regression","jd_phrase":"performing data","cosine":0.4359,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"scikit-learn","jd_phrase":"in python","cosine":0.4107,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"excel","jd_phrase":"advanced analytics","cosine":0.4103,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"excel","jd_phrase":"in python","cosine":0.4085,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"programming","jd_phrase":"professional development","cosine":0.4237,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"VIGNESH","jd":"JD-9","resume_phrase":"statistics","jd_phrase":"performing data","cosine":0.4053,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}

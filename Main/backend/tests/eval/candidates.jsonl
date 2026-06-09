@@ -1,0 +1,200 @@
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"data science","jd_phrase":"data representation","cosine":0.5979,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"database","jd_phrase":"nosql","cosine":0.5639,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"exploratory data analysis","jd_phrase":"data representation methods","cosine":0.5139,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"deep learning","jd_phrase":"machine learning frameworks","cosine":0.4858,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"c/c++","jd_phrase":"software architecture","cosine":0.4131,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"deep learning","jd_phrase":"data representation methods","cosine":0.4015,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"deep learning","jd_phrase":"representation methods","cosine":0.4196,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"deep learning","jd_phrase":"data representation","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"natural language processing","jd_phrase":"data representation methods","cosine":0.4034,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"natural language processing","jd_phrase":"data representation","cosine":0.4076,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"data pipeline","jd_phrase":"data representation methods","cosine":0.4159,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"data quality assurance","jd_phrase":"data representation","cosine":0.4129,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"data science","jd_phrase":"machine learning frameworks","cosine":0.4433,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"database","jd_phrase":"data representation methods","cosine":0.4346,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_1","resume_phrase":"programming","jd_phrase":"software architecture","cosine":0.4076,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"database","jd_phrase":"vector databases","cosine":0.5765,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"data pipeline","jd_phrase":"deployment pipelines","cosine":0.567,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"programming","jd_phrase":"game development","cosine":0.5202,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"data modeling","jd_phrase":"ml application","cosine":0.49,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"python","jd_phrase":"artificial intelligence","cosine":0.4678,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"natural language processing","jd_phrase":"large language models","cosine":0.4548,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"python","jd_phrase":"intelligent applications","cosine":0.4042,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"natural language processing","jd_phrase":"artificial intelligence","cosine":0.4293,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"data modeling","jd_phrase":"ml application development","cosine":0.4432,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"data modeling","jd_phrase":"vector databases","cosine":0.413,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"programming","jd_phrase":"intelligent applications","cosine":0.4144,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"programming","jd_phrase":"developer productivity","cosine":0.4274,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"programming","jd_phrase":"ai applications","cosine":0.4224,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_2","resume_phrase":"programming","jd_phrase":"ml application","cosine":0.4079,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"python","jd_phrase":"python fundamentals","cosine":0.7429,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data preprocessing","jd_phrase":"data preparation","cosine":0.7062,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"database","jd_phrase":"data systems","cosine":0.599,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"deep learning","jd_phrase":"artificial intelligence","cosine":0.5899,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data modeling","jd_phrase":"intelligent data","cosine":0.5238,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"ai projects","cosine":0.4782,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"scikit-learn","jd_phrase":"learning fundamentals","cosine":0.4759,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"cloud computing","jd_phrase":"intelligent data systems","cosine":0.4754,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"python","jd_phrase":"tensorflow","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"sql","jd_phrase":"data systems","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"natural language processing","jd_phrase":"artificial intelligence","cosine":0.4293,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"natural language processing","jd_phrase":"intelligent data","cosine":0.4062,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"exploratory data analysis","jd_phrase":"data systems","cosine":0.4482,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"exploratory data analysis","jd_phrase":"intelligent data","cosine":0.4418,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data pipeline","jd_phrase":"intelligent data systems","cosine":0.4452,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data pipeline","jd_phrase":"intelligent data","cosine":0.4394,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data preprocessing","jd_phrase":"intelligent data","cosine":0.4008,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data quality assurance","jd_phrase":"intelligent data systems","cosine":0.4238,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"data quality assurance","jd_phrase":"intelligent data","cosine":0.4165,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"databricks","jd_phrase":"intelligent data systems","cosine":0.403,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"cloud computing","jd_phrase":"artificial intelligence","cosine":0.4223,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"academic ai projects","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"python fundamentals","cosine":0.4467,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"structured problem-solving","cosine":0.4198,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"automation systems","cosine":0.4249,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"academic ai","cosine":0.4148,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"programming","jd_phrase":"data systems","cosine":0.4107,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_3","resume_phrase":"scikit-learn","jd_phrase":"python fundamentals","cosine":0.4307,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"transformers","jd_phrase":"transformer models","cosine":0.6488,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"data modeling","jd_phrase":"learning models","cosine":0.6347,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"programming","jd_phrase":"skills python","cosine":0.5005,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"data modeling","jd_phrase":"neural networks","cosine":0.4075,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"data science","jd_phrase":"natural language","cosine":0.4171,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"programming","jd_phrase":"key skills python","cosine":0.4408,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_4","resume_phrase":"programming","jd_phrase":"natural language","cosine":0.4387,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data science","jd_phrase":"data processing","cosine":0.649,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data pipeline","jd_phrase":"cd pipelines","cosine":0.5989,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data modeling","jd_phrase":"model","cosine":0.6143,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"database","jd_phrase":"vector databases","cosine":0.5765,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"programming","jd_phrase":"program requirements","cosine":0.5382,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"natural language processing","jd_phrase":"unstructured data processing","cosine":0.4887,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"retrieval methods","cosine":0.4638,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"deep learning","jd_phrase":"model","cosine":0.4089,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"exploratory data analysis","jd_phrase":"data processing","cosine":0.4015,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"exploratory data analysis","jd_phrase":"unstructured data","cosine":0.4302,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data pipeline","jd_phrase":"unstructured data","cosine":0.4179,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data preprocessing","jd_phrase":"unstructured data","cosine":0.4392,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data modeling","jd_phrase":"unstructured data processing","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data modeling","jd_phrase":"vector databases","cosine":0.413,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"data science","jd_phrase":"unstructured data","cosine":0.439,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"database","jd_phrase":"unstructured data processing","cosine":0.442,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"database","jd_phrase":"model","cosine":0.403,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"vector databases","cosine":0.427,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"model evaluation","cosine":0.4272,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"model","cosine":0.4402,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Eklavya","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"google","cosine":0.4498,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"data structures","jd_phrase":"data representation","cosine":0.6768,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"data science","jd_phrase":"data representation methods","cosine":0.571,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"classification","jd_phrase":"machine learning frameworks","cosine":0.5494,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"regression","jd_phrase":"data modeling","cosine":0.4817,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"numpy","jd_phrase":"pytorch","cosine":0.4555,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"python","jd_phrase":"pytorch","cosine":0.4304,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"supervised unsupervised learning","jd_phrase":"data representation methods","cosine":0.4461,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"supervised unsupervised learning","jd_phrase":"decision forests","cosine":0.4109,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"supervised unsupervised learning","jd_phrase":"learning frameworks","cosine":0.431,"token_overlap":0.3333,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"supervised unsupervised learning","jd_phrase":"representation methods","cosine":0.4157,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"supervised unsupervised learning","jd_phrase":"data representation","cosine":0.435,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"classification","jd_phrase":"learning frameworks","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"excel","jd_phrase":"data representation methods","cosine":0.4208,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"excel","jd_phrase":"data modeling","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"data science","jd_phrase":"machine learning frameworks","cosine":0.4433,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_1","resume_phrase":"programming","jd_phrase":"software architecture","cosine":0.4076,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"aws","jd_phrase":"aws. docker","cosine":0.6225,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"data structures","jd_phrase":"vector databases","cosine":0.5604,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"classification","jd_phrase":"artificial intelligence","cosine":0.5242,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"programming","jd_phrase":"game development","cosine":0.5202,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"amazon web services","jd_phrase":"backend services","cosine":0.5142,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"supervised unsupervised learning","jd_phrase":"deep learning","cosine":0.4582,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"python","jd_phrase":"intelligent applications","cosine":0.4042,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"supervised unsupervised learning","jd_phrase":"generative ai applications","cosine":0.4324,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"classification","jd_phrase":"generative ai applications","cosine":0.4259,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"classification","jd_phrase":"generative ai","cosine":0.45,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"classification","jd_phrase":"vector databases","cosine":0.4185,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"classification","jd_phrase":"intelligent applications","cosine":0.422,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"classification","jd_phrase":"ml application","cosine":0.4258,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"tf-idf","jd_phrase":"large language models","cosine":0.4143,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"excel","jd_phrase":"ml application","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"amazon web services","jd_phrase":"cloud infrastructure","cosine":0.4232,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"amazon web services","jd_phrase":"aws. docker","cosine":0.4039,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"programming","jd_phrase":"intelligent applications","cosine":0.4144,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"programming","jd_phrase":"developer productivity","cosine":0.4274,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"programming","jd_phrase":"ai applications","cosine":0.4224,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_2","resume_phrase":"programming","jd_phrase":"ml application","cosine":0.4079,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"python","jd_phrase":"python fundamentals","cosine":0.7429,"token_overlap":0.5,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"data structures","jd_phrase":"data systems","cosine":0.6488,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"classification","jd_phrase":"machine learning fundamentals","cosine":0.584,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"artificial intelligence","cosine":0.5013,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"scikit-learn","jd_phrase":"learning fundamentals","cosine":0.4759,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"cloud computing","jd_phrase":"intelligent data systems","cosine":0.4754,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"excel","jd_phrase":"data preparation","cosine":0.4707,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"python","jd_phrase":"tensorflow","cosine":0.4306,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"python","jd_phrase":"machine","cosine":0.4161,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"sql","jd_phrase":"data systems","cosine":0.4477,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"supervised unsupervised learning","jd_phrase":"intelligent data","cosine":0.4324,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"classification","jd_phrase":"practical ai","cosine":0.4116,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"scikit-learn","jd_phrase":"python fundamentals","cosine":0.4307,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"aws","jd_phrase":"data systems","cosine":0.4385,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"cloud computing","jd_phrase":"artificial intelligence","cosine":0.4223,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"academic ai projects","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"python fundamentals","cosine":0.4467,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"structured problem-solving","cosine":0.4198,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"automation systems","cosine":0.4249,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"academic ai","cosine":0.4148,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_3","resume_phrase":"programming","jd_phrase":"data systems","cosine":0.4107,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"classification","jd_phrase":"learning models","cosine":0.6079,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"tf-idf","jd_phrase":"language processing","cosine":0.5179,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"programming","jd_phrase":"skills python","cosine":0.5005,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"supervised unsupervised learning","jd_phrase":"deep learning","cosine":0.4582,"token_overlap":0.3333,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"numpy","jd_phrase":"pytorch","cosine":0.4555,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"supervised unsupervised learning","jd_phrase":"deep learning models","cosine":0.4282,"token_overlap":0.3333,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"supervised unsupervised learning","jd_phrase":"neural networks","cosine":0.4325,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"classification","jd_phrase":"natural language processing","cosine":0.4259,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"classification","jd_phrase":"sentiment detection","cosine":0.4424,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"classification","jd_phrase":"language models","cosine":0.401,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"classification","jd_phrase":"language processing","cosine":0.4346,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"regression","jd_phrase":"neural networks","cosine":0.443,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"tf-idf","jd_phrase":"large language models","cosine":0.4143,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"tf-idf","jd_phrase":"natural language processing","cosine":0.4286,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"tf-idf","jd_phrase":"language models","cosine":0.4006,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"tf-idf","jd_phrase":"large language","cosine":0.4024,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"tf-idf","jd_phrase":"natural language","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"numpy","jd_phrase":"tensorflow","cosine":0.4372,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"numpy","jd_phrase":"keras","cosine":0.4356,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"scikit-learn","jd_phrase":"pytorch","cosine":0.4162,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"data structures","jd_phrase":"language processing","cosine":0.4155,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"data structures","jd_phrase":"natural language","cosine":0.4122,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"data science","jd_phrase":"natural language","cosine":0.4171,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"programming","jd_phrase":"key skills python","cosine":0.4408,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_4","resume_phrase":"programming","jd_phrase":"natural language","cosine":0.4387,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"data structures","jd_phrase":"unstructured data","cosine":0.6551,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"data science","jd_phrase":"data processing","cosine":0.649,"token_overlap":0.0,"current_match_type":"semantic","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"programming","jd_phrase":"program requirements","cosine":0.5382,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"classification","jd_phrase":"retrieval methods","cosine":0.5207,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"regression","jd_phrase":"model","cosine":0.4637,"token_overlap":0.0,"current_match_type":"partial","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"css","jd_phrase":"ui","cosine":0.4443,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"supervised unsupervised learning","jd_phrase":"embedding techniques","cosine":0.421,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"classification","jd_phrase":"efficient retrieval methods","cosine":0.4344,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"classification","jd_phrase":"vector databases","cosine":0.4185,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"classification","jd_phrase":"risk identification","cosine":0.4252,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"classification","jd_phrase":"efficient retrieval","cosine":0.4141,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"classification","jd_phrase":"model","cosine":0.4148,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"regression","jd_phrase":"model evaluation","cosine":0.4094,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"tf-idf","jd_phrase":"efficient retrieval methods","cosine":0.4124,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"tf-idf","jd_phrase":"large language models","cosine":0.4143,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"tf-idf","jd_phrase":"retrieval methods","cosine":0.4179,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"tf-idf","jd_phrase":"efficient retrieval","cosine":0.4085,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"excel","jd_phrase":"data processing","cosine":0.4497,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"data science","jd_phrase":"unstructured data","cosine":0.439,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"vector databases","cosine":0.427,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"model evaluation","cosine":0.4272,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"model","cosine":0.4402,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}
+{"resume":"Vignesh","jd":"JD_5","resume_phrase":"machine learning","jd_phrase":"google","cosine":0.4498,"token_overlap":0.0,"current_match_type":"rejected","label":null,"notes":null}

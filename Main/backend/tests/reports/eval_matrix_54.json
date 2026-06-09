@@ -1,0 +1,2923 @@
+{
+  "meta": {
+    "generated": "2026-06-08T09:35:53.842105+00:00",
+    "embedding_backend": "sbert",
+    "resumes": [
+      "AKASH",
+      "Ananya",
+      "Eklavya",
+      "Rohit",
+      "VIGNESH",
+      "Wallace"
+    ],
+    "jds": [
+      "JD-1",
+      "JD-2",
+      "JD-3",
+      "JD-4",
+      "JD-5",
+      "JD-6",
+      "JD-7",
+      "JD-8",
+      "JD-9"
+    ],
+    "pairs": 54
+  },
+  "results": {
+    "AKASH|JD-1": {
+      "resume": "AKASH",
+      "jd": "JD-1",
+      "placement_score": 68.52,
+      "placement_raw": 45.46,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.336,
+        "S_pr": 0.603,
+        "S_in": 0.533,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'data modeling'",
+        "Obtain certification in 'statistics'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "data modeling",
+        "statistics",
+        "keras",
+        "pytorch",
+        "naive bayes",
+        "decision forests",
+        "data visualization tools",
+        "nosql",
+        "data representation methods"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 41.38,
+      "match_type_counts": {
+        "exact": 2,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 2
+      }
+    },
+    "AKASH|JD-2": {
+      "resume": "AKASH",
+      "jd": "JD-2",
+      "placement_score": 62.49,
+      "placement_raw": 40.4,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.253,
+        "S_pr": 0.573,
+        "S_in": 0.531,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'generative ai'",
+        "Obtain certification in 'cloud platforms'",
+        "Obtain certification in 'apis'"
+      ],
+      "missing_skills": [
+        "game development",
+        "melbourne to vancouver",
+        "generative ai",
+        "cloud platforms",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure"
+      ],
+      "matched_count": 8,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 27.62,
+      "match_type_counts": {
+        "exact": 3,
+        "semantic": 1,
+        "partial": 4
+      }
+    },
+    "AKASH|JD-3": {
+      "resume": "AKASH",
+      "jd": "JD-3",
+      "placement_score": 73.23,
+      "placement_raw": 49.62,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Artificial Intelligence Intern",
+      "components": {
+        "S_sk": 0.377,
+        "S_pr": 0.63,
+        "S_in": 0.596,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Artificial Intelligence Intern",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'academic ai projects'",
+        "Obtain certification in 'practical ai'"
+      ],
+      "missing_skills": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "practical ai"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 50.0,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "AKASH|JD-4": {
+      "resume": "AKASH",
+      "jd": "JD-4",
+      "placement_score": 55.48,
+      "placement_raw": 34.57,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.17,
+        "S_pr": 0.603,
+        "S_in": 0.573,
+        "S_we": 0.104,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Gain work experience in data science",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'keras'",
+        "Obtain certification in 'pytorch'"
+      ],
+      "missing_skills": [
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "learning models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "open-source models"
+      ],
+      "matched_count": 3,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 20.0,
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 1
+      }
+    },
+    "AKASH|JD-5": {
+      "resume": "AKASH",
+      "jd": "JD-5",
+      "placement_score": 64.07,
+      "placement_raw": 41.73,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Software Engineer - Gen Ai",
+      "components": {
+        "S_sk": 0.298,
+        "S_pr": 0.625,
+        "S_in": 0.558,
+        "S_we": 0.104,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Software Engineer - Gen Ai",
+        "Gain work experience in software dev",
+        "Obtain certification in 'langchain'",
+        "Obtain certification in 'model evaluation frameworks'",
+        "Obtain certification in 'google adk a2a'"
+      ],
+      "missing_skills": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "model evaluation frameworks",
+        "efficient retrieval methods",
+        "prompt engineering techniques",
+        "cd pipelines",
+        "financial crimes",
+        "google adk a2a"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 36.36,
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 2,
+        "semantic": 1,
+        "partial": 2
+      }
+    },
+    "AKASH|JD-6": {
+      "resume": "AKASH",
+      "jd": "JD-6",
+      "placement_score": 68.07,
+      "placement_raw": 45.06,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Full Stack Developer",
+      "components": {
+        "S_sk": 0.396,
+        "S_pr": 0.599,
+        "S_in": 0.561,
+        "S_we": 0.104,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Full Stack Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'aws'",
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'ms office'"
+      ],
+      "missing_skills": [
+        "object-oriented design",
+        "aws",
+        "project planning",
+        "apis",
+        "ms office"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 55.56,
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "AKASH|JD-7": {
+      "resume": "AKASH",
+      "jd": "JD-7",
+      "placement_score": 73.06,
+      "placement_raw": 49.46,
+      "match_level": "GOOD",
+      "domain": "software_dev",
+      "role": "Diligent Java Developer",
+      "components": {
+        "S_sk": 0.38,
+        "S_pr": 0.725,
+        "S_in": 0.568,
+        "S_we": 0.208,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Gain work experience in software dev",
+        "Obtain certification in 'mysql'",
+        "Obtain certification in 'nosql'",
+        "Obtain certification in 'scrapy cloud'"
+      ],
+      "missing_skills": [
+        "mysql",
+        "web apis",
+        "efficient code",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "scrapy cloud",
+        "pusher.io",
+        "getstream.io",
+        "postmark app"
+      ],
+      "matched_count": 10,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 41.56,
+      "match_type_counts": {
+        "exact": 5,
+        "semantic": 3,
+        "partial": 2
+      }
+    },
+    "AKASH|JD-8": {
+      "resume": "AKASH",
+      "jd": "JD-8",
+      "placement_score": 63.15,
+      "placement_raw": 40.96,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Machine Learning Engineer",
+      "components": {
+        "S_sk": 0.21,
+        "S_pr": 0.642,
+        "S_in": 0.565,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Machine Learning Engineer",
+        "Obtain certification in 'cloud storage'",
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'cloud platforms'"
+      ],
+      "missing_skills": [
+        "simple rag concepts",
+        "memory fundamentals",
+        "cloud storage",
+        "apis",
+        "ml development",
+        "ml concepts",
+        "cloud platforms",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 28.0,
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "AKASH|JD-9": {
+      "resume": "AKASH",
+      "jd": "JD-9",
+      "placement_score": 66.24,
+      "placement_raw": 43.53,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Business Analyst",
+      "components": {
+        "S_sk": 0.314,
+        "S_pr": 0.573,
+        "S_in": 0.536,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Business Analyst",
+        "Obtain certification in 'advanced analytics'",
+        "Obtain certification in 'data visualization'"
+      ],
+      "missing_skills": [
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card",
+        "advanced analytics",
+        "data visualization"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 37.29,
+      "match_type_counts": {
+        "exact": 3,
+        "semantic": 1,
+        "partial": 2
+      }
+    },
+    "Ananya|JD-1": {
+      "resume": "Ananya",
+      "jd": "JD-1",
+      "placement_score": 76.34,
+      "placement_raw": 52.35,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.35,
+        "S_pr": 0.74,
+        "S_in": 0.639,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Obtain certification in 'data structures'",
+        "Obtain certification in 'software architecture'",
+        "Obtain certification in 'statistics'"
+      ],
+      "missing_skills": [
+        "data structures",
+        "software architecture",
+        "statistics",
+        "java",
+        "keras",
+        "pytorch",
+        "naive bayes",
+        "decision forests",
+        "nosql"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 37.93,
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 3,
+        "partial": 2
+      }
+    },
+    "Ananya|JD-2": {
+      "resume": "Ananya",
+      "jd": "JD-2",
+      "placement_score": 61.7,
+      "placement_raw": 39.75,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.197,
+        "S_pr": 0.604,
+        "S_in": 0.591,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'generative ai'",
+        "Obtain certification in 'cloud platforms'",
+        "Obtain certification in 'apis'"
+      ],
+      "missing_skills": [
+        "game development",
+        "melbourne to vancouver",
+        "generative ai",
+        "cloud platforms",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 18.1,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "Ananya|JD-3": {
+      "resume": "Ananya",
+      "jd": "JD-3",
+      "placement_score": 69.53,
+      "placement_raw": 46.35,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Artificial Intelligence Intern",
+      "components": {
+        "S_sk": 0.245,
+        "S_pr": 0.7,
+        "S_in": 0.659,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Obtain certification in 'artificial intelligence'",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'academic ai projects'"
+      ],
+      "missing_skills": [
+        "artificial intelligence",
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "intelligent data systems",
+        "practical ai"
+      ],
+      "matched_count": 3,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 30.0,
+      "match_type_counts": {
+        "semantic": 2,
+        "partial": 1
+      }
+    },
+    "Ananya|JD-4": {
+      "resume": "Ananya",
+      "jd": "JD-4",
+      "placement_score": 75.68,
+      "placement_raw": 51.77,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.238,
+        "S_pr": 0.701,
+        "S_in": 0.604,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Obtain certification in 'neural networks'",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "neural networks",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "langchain"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 26.67,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 2
+      }
+    },
+    "Ananya|JD-5": {
+      "resume": "Ananya",
+      "jd": "JD-5",
+      "placement_score": 72.56,
+      "placement_raw": 49.03,
+      "match_level": "GOOD",
+      "domain": "software_dev",
+      "role": "Software Engineer - Gen Ai",
+      "components": {
+        "S_sk": 0.208,
+        "S_pr": 0.622,
+        "S_in": 0.589,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Software Engineer - Gen Ai",
+        "Obtain certification in 'java'",
+        "Obtain certification in 'langchain'",
+        "Obtain certification in 'ui'"
+      ],
+      "missing_skills": [
+        "java",
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "vector databases",
+        "prompt engineering techniques",
+        "containerization",
+        "microservices architecture"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 22.73,
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "Ananya|JD-6": {
+      "resume": "Ananya",
+      "jd": "JD-6",
+      "placement_score": 77.62,
+      "placement_raw": 53.49,
+      "match_level": "GOOD",
+      "domain": "software_dev",
+      "role": "Full Stack Developer",
+      "components": {
+        "S_sk": 0.301,
+        "S_pr": 0.641,
+        "S_in": 0.593,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Full Stack Developer",
+        "Obtain certification in 'amazon web services'",
+        "Obtain certification in 'apis'"
+      ],
+      "missing_skills": [
+        "object-oriented design",
+        "amazon web services",
+        "object oriented design",
+        "project planning",
+        "application software",
+        "apis"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 38.89,
+      "match_type_counts": {
+        "partial": 4
+      }
+    },
+    "Ananya|JD-7": {
+      "resume": "Ananya",
+      "jd": "JD-7",
+      "placement_score": 67.63,
+      "placement_raw": 44.69,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Diligent Java Developer",
+      "components": {
+        "S_sk": 0.096,
+        "S_pr": 0.63,
+        "S_in": 0.591,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Diligent Java Developer",
+        "Obtain certification in 'java'",
+        "Obtain certification in 'mysql'",
+        "Obtain certification in 'rest'"
+      ],
+      "missing_skills": [
+        "spring boot",
+        "java",
+        "mysql",
+        "web apis",
+        "rest",
+        "efficient code",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "firebase hosting"
+      ],
+      "matched_count": 2,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 9.09,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1
+      }
+    },
+    "Ananya|JD-8": {
+      "resume": "Ananya",
+      "jd": "JD-8",
+      "placement_score": 61.44,
+      "placement_raw": 39.54,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Machine Learning Engineer",
+      "components": {
+        "S_sk": 0.175,
+        "S_pr": 0.633,
+        "S_in": 0.593,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Machine Learning Engineer",
+        "Obtain certification in 'cloud storage'",
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'data engineering'"
+      ],
+      "missing_skills": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "cloud storage",
+        "apis",
+        "data engineering",
+        "ml development",
+        "ml concepts",
+        "cloud platforms",
+        "ai workflows"
+      ],
+      "matched_count": 3,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 20.0,
+      "match_type_counts": {
+        "partial": 3
+      }
+    },
+    "Ananya|JD-9": {
+      "resume": "Ananya",
+      "jd": "JD-9",
+      "placement_score": 71.08,
+      "placement_raw": 47.71,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Business Analyst",
+      "components": {
+        "S_sk": 0.293,
+        "S_pr": 0.69,
+        "S_in": 0.622,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Business Analyst",
+        "Obtain certification in 'neural networks'",
+        "Obtain certification in 'advanced analytics'"
+      ],
+      "missing_skills": [
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "neural networks",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 28.81,
+      "match_type_counts": {
+        "exact": 2,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 1
+      }
+    },
+    "Eklavya|JD-1": {
+      "resume": "Eklavya",
+      "jd": "JD-1",
+      "placement_score": 82.24,
+      "placement_raw": 57.56,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.609,
+        "S_pr": 0.704,
+        "S_in": 0.511,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.3
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Obtain certification in 'software architecture'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "software architecture",
+        "keras",
+        "naive bayes",
+        "decision forests"
+      ],
+      "matched_count": 11,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 72.41,
+      "match_type_counts": {
+        "exact": 6,
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "Eklavya|JD-2": {
+      "resume": "Eklavya",
+      "jd": "JD-2",
+      "placement_score": 64.78,
+      "placement_raw": 42.32,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.347,
+        "S_pr": 0.609,
+        "S_in": 0.502,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'generative ai'",
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'cloud-native applications'"
+      ],
+      "missing_skills": [
+        "melbourne to vancouver",
+        "generative ai",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure",
+        "ml application development",
+        "exposure to technologies"
+      ],
+      "matched_count": 11,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 39.05,
+      "match_type_counts": {
+        "exact": 5,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 4
+      }
+    },
+    "Eklavya|JD-3": {
+      "resume": "Eklavya",
+      "jd": "JD-3",
+      "placement_score": 79.11,
+      "placement_raw": 54.81,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Artificial Intelligence Intern",
+      "components": {
+        "S_sk": 0.543,
+        "S_pr": 0.681,
+        "S_in": 0.547,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.3
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Artificial Intelligence Intern",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'practical ai'"
+      ],
+      "missing_skills": [
+        "structured problem-solving",
+        "tensorflow",
+        "practical ai"
+      ],
+      "matched_count": 7,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 70.0,
+      "match_type_counts": {
+        "exact": 2,
+        "synonym": 1,
+        "semantic": 3,
+        "partial": 1
+      }
+    },
+    "Eklavya|JD-4": {
+      "resume": "Eklavya",
+      "jd": "JD-4",
+      "placement_score": 66.52,
+      "placement_raw": 43.77,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.405,
+        "S_pr": 0.691,
+        "S_in": 0.533,
+        "S_we": 0.042,
+        "S_ac": 0.0,
+        "S_ah": 0.3
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.222,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.111
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Gain work experience in data science",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'keras'",
+        "Obtain certification in 'large language models'"
+      ],
+      "missing_skills": [
+        "tensorflow",
+        "keras",
+        "large language models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "open-source models",
+        "langchain"
+      ],
+      "matched_count": 8,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 46.67,
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 1
+      }
+    },
+    "Eklavya|JD-5": {
+      "resume": "Eklavya",
+      "jd": "JD-5",
+      "placement_score": 66.19,
+      "placement_raw": 43.49,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Software Engineer - Gen Ai",
+      "components": {
+        "S_sk": 0.358,
+        "S_pr": 0.704,
+        "S_in": 0.506,
+        "S_we": 0.042,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.278,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.056
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Gain work experience in software dev",
+        "Obtain certification in 'langchain'",
+        "Obtain certification in 'ui'",
+        "Obtain certification in 'containerization'"
+      ],
+      "missing_skills": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "containerization",
+        "microservices architecture",
+        "financial crimes",
+        "openai apis"
+      ],
+      "matched_count": 8,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 46.97,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 2,
+        "partial": 5
+      }
+    },
+    "Eklavya|JD-6": {
+      "resume": "Eklavya",
+      "jd": "JD-6",
+      "placement_score": 70.47,
+      "placement_raw": 47.18,
+      "match_level": "GOOD",
+      "domain": "software_dev",
+      "role": "Full Stack Developer",
+      "components": {
+        "S_sk": 0.462,
+        "S_pr": 0.698,
+        "S_in": 0.496,
+        "S_we": 0.042,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.278,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.056
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Full Stack Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'ms office'"
+      ],
+      "missing_skills": [
+        "object-oriented design",
+        "project planning",
+        "apis",
+        "ms office"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 66.67,
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 4
+      }
+    },
+    "Eklavya|JD-7": {
+      "resume": "Eklavya",
+      "jd": "JD-7",
+      "placement_score": 61.54,
+      "placement_raw": 39.62,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Diligent Java Developer",
+      "components": {
+        "S_sk": 0.228,
+        "S_pr": 0.727,
+        "S_in": 0.511,
+        "S_we": 0.083,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.278,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.056
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Gain work experience in software dev",
+        "Obtain certification in 'rest'",
+        "Obtain certification in 'nosql'",
+        "Obtain certification in 'pusher.io'"
+      ],
+      "missing_skills": [
+        "spring boot",
+        "web apis",
+        "rest",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "firebase hosting",
+        "pusher.io",
+        "getstream.io",
+        "postmark app"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 28.57,
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "Eklavya|JD-8": {
+      "resume": "Eklavya",
+      "jd": "JD-8",
+      "placement_score": 65.98,
+      "placement_raw": 43.32,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Machine Learning Engineer",
+      "components": {
+        "S_sk": 0.282,
+        "S_pr": 0.714,
+        "S_in": 0.533,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.25
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'preferably gcp'",
+        "Obtain certification in 'ai workflows'"
+      ],
+      "missing_skills": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "apis",
+        "ml development",
+        "ml concepts",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 36.0,
+      "match_type_counts": {
+        "synonym": 2,
+        "semantic": 2,
+        "partial": 1
+      }
+    },
+    "Eklavya|JD-9": {
+      "resume": "Eklavya",
+      "jd": "JD-9",
+      "placement_score": 73.27,
+      "placement_raw": 49.65,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Business Analyst",
+      "components": {
+        "S_sk": 0.464,
+        "S_pr": 0.675,
+        "S_in": 0.5,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.25
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Business Analyst"
+      ],
+      "missing_skills": [
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card"
+      ],
+      "matched_count": 9,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 54.24,
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 2,
+        "semantic": 1,
+        "partial": 2
+      }
+    },
+    "Rohit|JD-1": {
+      "resume": "Rohit",
+      "jd": "JD-1",
+      "placement_score": 58.51,
+      "placement_raw": 37.09,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.388,
+        "S_pr": 0.62,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'data modeling'",
+        "Obtain certification in 'statistics'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "data modeling",
+        "statistics",
+        "keras",
+        "pytorch",
+        "naive bayes",
+        "decision forests",
+        "data visualization tools",
+        "data representation methods"
+      ],
+      "matched_count": 7,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 48.28,
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 2,
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "Rohit|JD-2": {
+      "resume": "Rohit",
+      "jd": "JD-2",
+      "placement_score": 54.2,
+      "placement_raw": 33.5,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.311,
+        "S_pr": 0.629,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'machine learning'",
+        "Obtain certification in 'generative ai'",
+        "Obtain certification in 'cloud-native applications'"
+      ],
+      "missing_skills": [
+        "game development",
+        "melbourne to vancouver",
+        "machine learning",
+        "generative ai",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "cloud-native applications",
+        "deployment pipelines",
+        "data science"
+      ],
+      "matched_count": 10,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 35.24,
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 1,
+        "semantic": 4,
+        "partial": 4
+      }
+    },
+    "Rohit|JD-3": {
+      "resume": "Rohit",
+      "jd": "JD-3",
+      "placement_score": 53.18,
+      "placement_raw": 32.65,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Artificial Intelligence Intern",
+      "components": {
+        "S_sk": 0.292,
+        "S_pr": 0.632,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with Artificial Intelligence Intern",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'machine learning fundamentals'",
+        "Obtain certification in 'academic ai projects'"
+      ],
+      "missing_skills": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "machine learning fundamentals",
+        "academic ai projects",
+        "practical ai"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 40.0,
+      "match_type_counts": {
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "Rohit|JD-4": {
+      "resume": "Rohit",
+      "jd": "JD-4",
+      "placement_score": 34.4,
+      "placement_raw": 20.64,
+      "match_level": "BELOW AVERAGE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.109,
+        "S_pr": 0.635,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with not_specified",
+        "Gain work experience in data science",
+        "Obtain certification in 'machine learning'",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "machine learning",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "learning models",
+        "product managers",
+        "sentiment detection",
+        "openai"
+      ],
+      "matched_count": 2,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 13.33,
+      "match_type_counts": {
+        "exact": 1,
+        "partial": 1
+      }
+    },
+    "Rohit|JD-5": {
+      "resume": "Rohit",
+      "jd": "JD-5",
+      "placement_score": 49.54,
+      "placement_raw": 29.72,
+      "match_level": "BELOW AVERAGE",
+      "domain": "software_dev",
+      "role": "Software Engineer - Gen Ai",
+      "components": {
+        "S_sk": 0.276,
+        "S_pr": 0.624,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in software dev",
+        "Build 1-2 projects aligned with Software Engineer - Gen Ai",
+        "Gain work experience in software dev",
+        "Obtain certification in 'langchain'",
+        "Obtain certification in 'ui'",
+        "Obtain certification in 'containerization'"
+      ],
+      "missing_skills": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "efficient retrieval methods",
+        "containerization",
+        "microservices architecture",
+        "cd pipelines",
+        "financial crimes"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 34.85,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 4
+      }
+    },
+    "Rohit|JD-6": {
+      "resume": "Rohit",
+      "jd": "JD-6",
+      "placement_score": 67.34,
+      "placement_raw": 44.45,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Full Stack Developer",
+      "components": {
+        "S_sk": 0.631,
+        "S_pr": 0.628,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in software dev",
+        "Build 1-2 projects aligned with Full Stack Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'ms office'"
+      ],
+      "missing_skills": [
+        "project planning",
+        "ms office"
+      ],
+      "matched_count": 8,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 83.33,
+      "match_type_counts": {
+        "synonym": 3,
+        "semantic": 2,
+        "partial": 3
+      }
+    },
+    "Rohit|JD-7": {
+      "resume": "Rohit",
+      "jd": "JD-7",
+      "placement_score": 55.13,
+      "placement_raw": 34.28,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Diligent Java Developer",
+      "components": {
+        "S_sk": 0.336,
+        "S_pr": 0.696,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in software dev",
+        "Build 1-2 projects aligned with Diligent Java Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'rest'",
+        "Obtain certification in 'nosql'",
+        "Obtain certification in 'pusher.io'"
+      ],
+      "missing_skills": [
+        "spring boot",
+        "rest",
+        "efficient code",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "pusher.io",
+        "getstream.io",
+        "postmark app",
+        "as2 gateway"
+      ],
+      "matched_count": 9,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 38.96,
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 1,
+        "semantic": 5,
+        "partial": 2
+      }
+    },
+    "Rohit|JD-8": {
+      "resume": "Rohit",
+      "jd": "JD-8",
+      "placement_score": 59.31,
+      "placement_raw": 37.76,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Machine Learning Engineer",
+      "components": {
+        "S_sk": 0.392,
+        "S_pr": 0.636,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with Machine Learning Engineer",
+        "Obtain certification in 'preferably gcp'",
+        "Obtain certification in 'ai workflows'",
+        "Obtain certification in 'cloud run'"
+      ],
+      "missing_skills": [
+        "simple rag concepts",
+        "memory fundamentals",
+        "ml development",
+        "ml concepts",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "matched_count": 7,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 52.0,
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 4
+      }
+    },
+    "Rohit|JD-9": {
+      "resume": "Rohit",
+      "jd": "JD-9",
+      "placement_score": 47.44,
+      "placement_raw": 28.47,
+      "match_level": "BELOW AVERAGE",
+      "domain": "data_science",
+      "role": "Business Analyst",
+      "components": {
+        "S_sk": 0.245,
+        "S_pr": 0.567,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with Business Analyst",
+        "Obtain certification in 'machine learning'",
+        "Obtain certification in 'data visualization'"
+      ],
+      "missing_skills": [
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card",
+        "machine learning"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 30.51,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "VIGNESH|JD-1": {
+      "resume": "VIGNESH",
+      "jd": "JD-1",
+      "placement_score": 85.45,
+      "placement_raw": 61.19,
+      "match_level": "EXCELLENT",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.605,
+        "S_pr": 0.736,
+        "S_in": 0.537,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Obtain certification in 'software architecture'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "software architecture",
+        "keras",
+        "naive bayes",
+        "decision forests"
+      ],
+      "matched_count": 11,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 72.41,
+      "match_type_counts": {
+        "exact": 5,
+        "synonym": 2,
+        "semantic": 2,
+        "partial": 2
+      }
+    },
+    "VIGNESH|JD-2": {
+      "resume": "VIGNESH",
+      "jd": "JD-2",
+      "placement_score": 68.23,
+      "placement_raw": 45.2,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.342,
+        "S_pr": 0.612,
+        "S_in": 0.53,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.4
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'generative ai applications'",
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'cloud-native applications'"
+      ],
+      "missing_skills": [
+        "melbourne to vancouver",
+        "generative ai applications",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure",
+        "deployment pipelines",
+        "ml application development"
+      ],
+      "matched_count": 11,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 39.05,
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 5
+      }
+    },
+    "VIGNESH|JD-3": {
+      "resume": "VIGNESH",
+      "jd": "JD-3",
+      "placement_score": 77.89,
+      "placement_raw": 53.73,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Artificial Intelligence Intern",
+      "components": {
+        "S_sk": 0.393,
+        "S_pr": 0.782,
+        "S_in": 0.573,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'academic ai projects'",
+        "Obtain certification in 'practical ai'"
+      ],
+      "missing_skills": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "practical ai"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 50.0,
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 2,
+        "partial": 1
+      }
+    },
+    "VIGNESH|JD-4": {
+      "resume": "VIGNESH",
+      "jd": "JD-4",
+      "placement_score": 63.61,
+      "placement_raw": 41.34,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.277,
+        "S_pr": 0.66,
+        "S_in": 0.538,
+        "S_we": 0.125,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.222,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.111
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with not_specified",
+        "Gain work experience in data science",
+        "Obtain certification in 'neural networks'",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "neural networks",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "large language models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "open-source models",
+        "langchain"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 33.33,
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "VIGNESH|JD-5": {
+      "resume": "VIGNESH",
+      "jd": "JD-5",
+      "placement_score": 63.69,
+      "placement_raw": 41.41,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Software Engineer - Gen Ai",
+      "components": {
+        "S_sk": 0.266,
+        "S_pr": 0.636,
+        "S_in": 0.571,
+        "S_we": 0.125,
+        "S_ac": 0.0,
+        "S_ah": 0.45
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.278,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.056
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Software Engineer - Gen Ai",
+        "Gain work experience in software dev",
+        "Obtain certification in 'langchain'",
+        "Obtain certification in 'ui'",
+        "Obtain certification in 'containerization'"
+      ],
+      "missing_skills": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "vector databases",
+        "containerization",
+        "microservices architecture",
+        "cd pipelines",
+        "financial crimes"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 34.85,
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 4
+      }
+    },
+    "VIGNESH|JD-6": {
+      "resume": "VIGNESH",
+      "jd": "JD-6",
+      "placement_score": 75.49,
+      "placement_raw": 51.61,
+      "match_level": "GOOD",
+      "domain": "software_dev",
+      "role": "Full Stack Developer",
+      "components": {
+        "S_sk": 0.551,
+        "S_pr": 0.627,
+        "S_in": 0.548,
+        "S_we": 0.125,
+        "S_ac": 0.0,
+        "S_ah": 0.4
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.278,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.056
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Full Stack Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'apis'"
+      ],
+      "missing_skills": [
+        "object-oriented design",
+        "project planning",
+        "apis"
+      ],
+      "matched_count": 7,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 72.22,
+      "match_type_counts": {
+        "exact": 3,
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "VIGNESH|JD-7": {
+      "resume": "VIGNESH",
+      "jd": "JD-7",
+      "placement_score": 74.92,
+      "placement_raw": 51.11,
+      "match_level": "GOOD",
+      "domain": "software_dev",
+      "role": "Diligent Java Developer",
+      "components": {
+        "S_sk": 0.429,
+        "S_pr": 0.69,
+        "S_in": 0.583,
+        "S_we": 0.25,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.389,
+        "projects_weight": 0.278,
+        "internship_weight": 0.167,
+        "experience_weight": 0.111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.056
+      },
+      "excluded": [
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Diligent Java Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'nosql'",
+        "Obtain certification in 'pusher.io'",
+        "Obtain certification in 'getstream.io'"
+      ],
+      "missing_skills": [
+        "spring boot",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "firebase hosting",
+        "pusher.io",
+        "getstream.io",
+        "postmark app",
+        "as2 gateway",
+        "gitlab"
+      ],
+      "matched_count": 12,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 51.95,
+      "match_type_counts": {
+        "exact": 5,
+        "semantic": 1,
+        "partial": 6
+      }
+    },
+    "VIGNESH|JD-8": {
+      "resume": "VIGNESH",
+      "jd": "JD-8",
+      "placement_score": 72.81,
+      "placement_raw": 49.24,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Machine Learning Engineer",
+      "components": {
+        "S_sk": 0.335,
+        "S_pr": 0.727,
+        "S_in": 0.543,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Obtain certification in 'apis'",
+        "Obtain certification in 'preferably gcp'",
+        "Obtain certification in 'ai workflows'"
+      ],
+      "missing_skills": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "apis",
+        "ml development",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "matched_count": 6,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 44.0,
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 3,
+        "partial": 2
+      }
+    },
+    "VIGNESH|JD-9": {
+      "resume": "VIGNESH",
+      "jd": "JD-9",
+      "placement_score": 73.43,
+      "placement_raw": 49.79,
+      "match_level": "GOOD",
+      "domain": "data_science",
+      "role": "Business Analyst",
+      "components": {
+        "S_sk": 0.419,
+        "S_pr": 0.664,
+        "S_in": 0.491,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.45
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics"
+      ],
+      "recommendations": [
+        "Build 1-2 projects aligned with Business Analyst",
+        "Obtain certification in 'neural networks'",
+        "Obtain certification in 'advanced analytics'"
+      ],
+      "missing_skills": [
+        "nonlinear models",
+        "macroeconomic forecast",
+        "cluster analysis",
+        "neural networks",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card",
+        "advanced analytics"
+      ],
+      "matched_count": 8,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 49.15,
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 1
+      }
+    },
+    "Wallace|JD-1": {
+      "resume": "Wallace",
+      "jd": "JD-1",
+      "placement_score": 39.67,
+      "placement_raw": 23.8,
+      "match_level": "BELOW AVERAGE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.11,
+        "S_pr": 0.641,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'data structures'",
+        "Obtain certification in 'data modeling'",
+        "Obtain certification in 'software architecture'"
+      ],
+      "missing_skills": [
+        "data structures",
+        "data modeling",
+        "software architecture",
+        "statistics",
+        "java",
+        "keras",
+        "pytorch",
+        "scikit-learn",
+        "naive bayes",
+        "decision forests"
+      ],
+      "matched_count": 2,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 13.79,
+      "match_type_counts": {
+        "synonym": 1,
+        "partial": 1
+      }
+    },
+    "Wallace|JD-2": {
+      "resume": "Wallace",
+      "jd": "JD-2",
+      "placement_score": 41.31,
+      "placement_raw": 24.78,
+      "match_level": "BELOW AVERAGE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.149,
+        "S_pr": 0.607,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with not_specified",
+        "Obtain certification in 'generative ai'",
+        "Obtain certification in 'cloud platforms'",
+        "Obtain certification in 'cloud infrastructure'"
+      ],
+      "missing_skills": [
+        "game development",
+        "melbourne to vancouver",
+        "generative ai",
+        "cloud platforms",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "cloud infrastructure",
+        "deployment pipelines",
+        "data science"
+      ],
+      "matched_count": 5,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 18.1,
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 4
+      }
+    },
+    "Wallace|JD-3": {
+      "resume": "Wallace",
+      "jd": "JD-3",
+      "placement_score": 53.79,
+      "placement_raw": 33.16,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Artificial Intelligence Intern",
+      "components": {
+        "S_sk": 0.247,
+        "S_pr": 0.727,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'academic ai projects'",
+        "Obtain certification in 'intelligent data systems'"
+      ],
+      "missing_skills": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "intelligent data systems",
+        "data science",
+        "practical ai"
+      ],
+      "matched_count": 3,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 36.67,
+      "match_type_counts": {
+        "semantic": 2,
+        "partial": 1
+      }
+    },
+    "Wallace|JD-4": {
+      "resume": "Wallace",
+      "jd": "JD-4",
+      "placement_score": 43.21,
+      "placement_raw": 25.92,
+      "match_level": "BELOW AVERAGE",
+      "domain": "data_science",
+      "role": "not_specified",
+      "components": {
+        "S_sk": 0.199,
+        "S_pr": 0.689,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.438,
+        "projects_weight": 0.25,
+        "internship_weight": 0.188,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with not_specified",
+        "Gain work experience in data science",
+        "Obtain certification in 'neural networks'",
+        "Obtain certification in 'tensorflow'",
+        "Obtain certification in 'keras'"
+      ],
+      "missing_skills": [
+        "neural networks",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "product managers",
+        "openai",
+        "open-source models",
+        "langchain"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 26.67,
+      "match_type_counts": {
+        "synonym": 1,
+        "partial": 3
+      }
+    },
+    "Wallace|JD-5": {
+      "resume": "Wallace",
+      "jd": "JD-5",
+      "placement_score": 35.74,
+      "placement_raw": 21.44,
+      "match_level": "BELOW AVERAGE",
+      "domain": "software_dev",
+      "role": "Software Engineer - Gen Ai",
+      "components": {
+        "S_sk": 0.053,
+        "S_pr": 0.655,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in software dev",
+        "Build 1-2 projects aligned with Software Engineer - Gen Ai",
+        "Gain work experience in software dev",
+        "Obtain certification in 'java'",
+        "Obtain certification in 'langchain'",
+        "Obtain certification in 'model evaluation frameworks'"
+      ],
+      "missing_skills": [
+        "java",
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "model evaluation frameworks",
+        "ui",
+        "vector databases",
+        "efficient retrieval methods",
+        "containerization"
+      ],
+      "matched_count": 1,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 6.06,
+      "match_type_counts": {
+        "synonym": 1
+      }
+    },
+    "Wallace|JD-6": {
+      "resume": "Wallace",
+      "jd": "JD-6",
+      "placement_score": 39.49,
+      "placement_raw": 23.69,
+      "match_level": "BELOW AVERAGE",
+      "domain": "software_dev",
+      "role": "Full Stack Developer",
+      "components": {
+        "S_sk": 0.126,
+        "S_pr": 0.629,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in software dev",
+        "Build 1-2 projects aligned with Full Stack Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'amazon web services'",
+        "Obtain certification in 'aws'",
+        "Obtain certification in 'data structures'"
+      ],
+      "missing_skills": [
+        "object-oriented design",
+        "amazon web services",
+        "aws",
+        "object oriented design",
+        "computer science",
+        "data structures",
+        "project planning",
+        "ms office"
+      ],
+      "matched_count": 2,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 16.67,
+      "match_type_counts": {
+        "partial": 2
+      }
+    },
+    "Wallace|JD-7": {
+      "resume": "Wallace",
+      "jd": "JD-7",
+      "placement_score": 52.89,
+      "placement_raw": 32.41,
+      "match_level": "MODERATE",
+      "domain": "software_dev",
+      "role": "Diligent Java Developer",
+      "components": {
+        "S_sk": 0.297,
+        "S_pr": 0.686,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.412,
+        "projects_weight": 0.294,
+        "internship_weight": 0.176,
+        "experience_weight": 0.118,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in software dev",
+        "Build 1-2 projects aligned with Diligent Java Developer",
+        "Gain work experience in software dev",
+        "Obtain certification in 'database'",
+        "Obtain certification in 'java'",
+        "Obtain certification in 'mysql'"
+      ],
+      "missing_skills": [
+        "spring boot",
+        "database",
+        "java",
+        "mysql",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "scrapy cloud",
+        "pusher.io",
+        "getstream.io"
+      ],
+      "matched_count": 8,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 35.06,
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 2,
+        "partial": 4
+      }
+    },
+    "Wallace|JD-8": {
+      "resume": "Wallace",
+      "jd": "JD-8",
+      "placement_score": 52.07,
+      "placement_raw": 31.72,
+      "match_level": "MODERATE",
+      "domain": "data_science",
+      "role": "Machine Learning Engineer",
+      "components": {
+        "S_sk": 0.223,
+        "S_pr": 0.72,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Obtain certification in 'cloud storage'",
+        "Obtain certification in 'data engineering'",
+        "Obtain certification in 'preferably gcp'"
+      ],
+      "missing_skills": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "cloud storage",
+        "data engineering",
+        "ml development",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run",
+        "data handling policies"
+      ],
+      "matched_count": 4,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 32.0,
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 3
+      }
+    },
+    "Wallace|JD-9": {
+      "resume": "Wallace",
+      "jd": "JD-9",
+      "placement_score": 40.57,
+      "placement_raw": 24.34,
+      "match_level": "BELOW AVERAGE",
+      "domain": "data_science",
+      "role": "Business Analyst",
+      "components": {
+        "S_sk": 0.146,
+        "S_pr": 0.597,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.286,
+        "internship_weight": 0.214,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "excluded": [
+        "Work Experience",
+        "Academics",
+        "Achievements_Certifications"
+      ],
+      "recommendations": [
+        "Complete an internship in data science",
+        "Build 1-2 projects aligned with Business Analyst",
+        "Obtain certification in 'sql'",
+        "Obtain certification in 'data science'",
+        "Obtain certification in 'advanced analytics'"
+      ],
+      "missing_skills": [
+        "sql",
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card"
+      ],
+      "matched_count": 3,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 18.64,
+      "match_type_counts": {
+        "synonym": 1,
+        "partial": 2
+      }
+    }
+  }
+}

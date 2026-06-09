@@ -1,0 +1,2530 @@
+{
+  "meta": {
+    "generated": "2026-06-09T05:16:36.885520+00:00",
+    "mode": "sbert",
+    "embedding_backend": "sbert",
+    "llm_backend": "none",
+    "resumes": [
+      "AKASH",
+      "Ananya",
+      "Eklavya",
+      "Rohit",
+      "VIGNESH",
+      "Wallace"
+    ],
+    "jds": [
+      "JD-1",
+      "JD-2",
+      "JD-3",
+      "JD-4",
+      "JD-5",
+      "JD-6",
+      "JD-7",
+      "JD-8",
+      "JD-9"
+    ],
+    "pairs": 54,
+    "successful_pairs": 54,
+    "failed_pairs": 0,
+    "total_seconds": 16.89
+  },
+  "results": {
+    "AKASH|JD-1": {
+      "placement_score": 68.52,
+      "placement_score_raw_pct": 45.46,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "mid",
+      "component_scores": {
+        "S_sk": 0.336,
+        "S_pr": 0.603,
+        "S_in": 0.5333,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 6,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 41.38,
+      "missing_skills_top10": [
+        "data modeling",
+        "statistics",
+        "keras",
+        "pytorch",
+        "naive bayes",
+        "decision forests",
+        "data visualization tools",
+        "nosql",
+        "data representation methods"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.39
+    },
+    "AKASH|JD-2": {
+      "placement_score": 62.49,
+      "placement_score_raw_pct": 40.4,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2534,
+        "S_pr": 0.5726,
+        "S_in": 0.5308,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 8,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 27.62,
+      "missing_skills_top10": [
+        "game development",
+        "melbourne to vancouver",
+        "generative ai",
+        "cloud platforms",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure"
+      ],
+      "match_type_counts": {
+        "exact": 3,
+        "semantic": 1,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.34
+    },
+    "AKASH|JD-3": {
+      "placement_score": 73.23,
+      "placement_score_raw_pct": 49.62,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Artificial Intelligence Intern",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.377,
+        "S_pr": 0.6297,
+        "S_in": 0.5962,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 5,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 50.0,
+      "missing_skills_top10": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "practical ai"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.3
+    },
+    "AKASH|JD-4": {
+      "placement_score": 55.48,
+      "placement_score_raw_pct": 34.57,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.1702,
+        "S_pr": 0.6031,
+        "S_in": 0.5729,
+        "S_we": 0.1042,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 3,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 20.0,
+      "missing_skills_top10": [
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "learning models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "open-source models"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "AKASH|JD-5": {
+      "placement_score": 64.07,
+      "placement_score_raw_pct": 41.73,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Software Engineer - Gen Ai",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2983,
+        "S_pr": 0.6246,
+        "S_in": 0.5581,
+        "S_we": 0.1042,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 6,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 36.36,
+      "missing_skills_top10": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "model evaluation frameworks",
+        "efficient retrieval methods",
+        "prompt engineering techniques",
+        "cd pipelines",
+        "financial crimes",
+        "google adk a2a"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 2,
+        "semantic": 1,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "AKASH|JD-6": {
+      "placement_score": 68.07,
+      "placement_score_raw_pct": 45.06,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Full Stack Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.3962,
+        "S_pr": 0.599,
+        "S_in": 0.5611,
+        "S_we": 0.1042,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 5,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 55.56,
+      "missing_skills_top10": [
+        "object-oriented design",
+        "aws",
+        "project planning",
+        "apis",
+        "ms office"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.27
+    },
+    "AKASH|JD-7": {
+      "placement_score": 73.06,
+      "placement_score_raw_pct": 49.46,
+      "match_level": "GOOD",
+      "domain_detected": "software_dev",
+      "role_title": "Diligent Java Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.38,
+        "S_pr": 0.7254,
+        "S_in": 0.5684,
+        "S_we": 0.2083,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 10,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 41.56,
+      "missing_skills_top10": [
+        "mysql",
+        "web apis",
+        "efficient code",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "scrapy cloud",
+        "pusher.io",
+        "getstream.io",
+        "postmark app"
+      ],
+      "match_type_counts": {
+        "exact": 5,
+        "semantic": 3,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "AKASH|JD-8": {
+      "placement_score": 63.15,
+      "placement_score_raw_pct": 40.96,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Machine Learning Engineer",
+      "seniority_level": "lead",
+      "component_scores": {
+        "S_sk": 0.2099,
+        "S_pr": 0.6425,
+        "S_in": 0.5649,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 28.0,
+      "missing_skills_top10": [
+        "simple rag concepts",
+        "memory fundamentals",
+        "cloud storage",
+        "apis",
+        "ml development",
+        "ml concepts",
+        "cloud platforms",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "AKASH|JD-9": {
+      "placement_score": 66.24,
+      "placement_score_raw_pct": 43.53,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Business Analyst",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.3136,
+        "S_pr": 0.5727,
+        "S_in": 0.5361,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 6,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 37.29,
+      "missing_skills_top10": [
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card",
+        "advanced analytics",
+        "data visualization"
+      ],
+      "match_type_counts": {
+        "exact": 3,
+        "semantic": 1,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.3
+    },
+    "Ananya|JD-1": {
+      "placement_score": 76.34,
+      "placement_score_raw_pct": 52.35,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "mid",
+      "component_scores": {
+        "S_sk": 0.3505,
+        "S_pr": 0.7398,
+        "S_in": 0.639,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 6,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 37.93,
+      "missing_skills_top10": [
+        "data structures",
+        "software architecture",
+        "statistics",
+        "java",
+        "keras",
+        "pytorch",
+        "naive bayes",
+        "decision forests",
+        "nosql"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 3,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "Ananya|JD-2": {
+      "placement_score": 61.7,
+      "placement_score_raw_pct": 39.75,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.1967,
+        "S_pr": 0.6035,
+        "S_in": 0.5912,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 5,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 18.1,
+      "missing_skills_top10": [
+        "game development",
+        "melbourne to vancouver",
+        "generative ai",
+        "cloud platforms",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.38
+    },
+    "Ananya|JD-3": {
+      "placement_score": 69.53,
+      "placement_score_raw_pct": 46.35,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Artificial Intelligence Intern",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2446,
+        "S_pr": 0.7002,
+        "S_in": 0.6588,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 3,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 30.0,
+      "missing_skills_top10": [
+        "artificial intelligence",
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "intelligent data systems",
+        "practical ai"
+      ],
+      "match_type_counts": {
+        "semantic": 2,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.3
+    },
+    "Ananya|JD-4": {
+      "placement_score": 75.68,
+      "placement_score_raw_pct": 51.77,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2383,
+        "S_pr": 0.7008,
+        "S_in": 0.6042,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 26.67,
+      "missing_skills_top10": [
+        "neural networks",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "langchain"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "Ananya|JD-5": {
+      "placement_score": 72.56,
+      "placement_score_raw_pct": 49.03,
+      "match_level": "GOOD",
+      "domain_detected": "software_dev",
+      "role_title": "Software Engineer - Gen Ai",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2084,
+        "S_pr": 0.6218,
+        "S_in": 0.5889,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 22.73,
+      "missing_skills_top10": [
+        "java",
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "vector databases",
+        "prompt engineering techniques",
+        "containerization",
+        "microservices architecture"
+      ],
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "Ananya|JD-6": {
+      "placement_score": 77.62,
+      "placement_score_raw_pct": 53.49,
+      "match_level": "GOOD",
+      "domain_detected": "software_dev",
+      "role_title": "Full Stack Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.301,
+        "S_pr": 0.6415,
+        "S_in": 0.593,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 38.89,
+      "missing_skills_top10": [
+        "object-oriented design",
+        "amazon web services",
+        "object oriented design",
+        "project planning",
+        "application software",
+        "apis"
+      ],
+      "match_type_counts": {
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "Ananya|JD-7": {
+      "placement_score": 67.63,
+      "placement_score_raw_pct": 44.69,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Diligent Java Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.0964,
+        "S_pr": 0.6301,
+        "S_in": 0.5909,
+        "S_we": 1.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 2,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 9.09,
+      "missing_skills_top10": [
+        "spring boot",
+        "java",
+        "mysql",
+        "web apis",
+        "rest",
+        "efficient code",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "firebase hosting"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "Ananya|JD-8": {
+      "placement_score": 61.44,
+      "placement_score_raw_pct": 39.54,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Machine Learning Engineer",
+      "seniority_level": "lead",
+      "component_scores": {
+        "S_sk": 0.1747,
+        "S_pr": 0.6332,
+        "S_in": 0.5931,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 3,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 20.0,
+      "missing_skills_top10": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "cloud storage",
+        "apis",
+        "data engineering",
+        "ml development",
+        "ml concepts",
+        "cloud platforms",
+        "ai workflows"
+      ],
+      "match_type_counts": {
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.3
+    },
+    "Ananya|JD-9": {
+      "placement_score": 71.08,
+      "placement_score_raw_pct": 47.71,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Business Analyst",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2934,
+        "S_pr": 0.6899,
+        "S_in": 0.6222,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 5,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 28.81,
+      "missing_skills_top10": [
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "neural networks",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "Eklavya|JD-1": {
+      "placement_score": 82.24,
+      "placement_score_raw_pct": 57.56,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "mid",
+      "component_scores": {
+        "S_sk": 0.609,
+        "S_pr": 0.7035,
+        "S_in": 0.511,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.3
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 11,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 72.41,
+      "missing_skills_top10": [
+        "software architecture",
+        "keras",
+        "naive bayes",
+        "decision forests"
+      ],
+      "match_type_counts": {
+        "exact": 6,
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.38
+    },
+    "Eklavya|JD-2": {
+      "placement_score": 64.78,
+      "placement_score_raw_pct": 42.32,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.3469,
+        "S_pr": 0.6092,
+        "S_in": 0.5019,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 11,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 39.05,
+      "missing_skills_top10": [
+        "melbourne to vancouver",
+        "generative ai",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure",
+        "ml application development",
+        "exposure to technologies"
+      ],
+      "match_type_counts": {
+        "exact": 5,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.42
+    },
+    "Eklavya|JD-3": {
+      "placement_score": 79.11,
+      "placement_score_raw_pct": 54.81,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Artificial Intelligence Intern",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.5433,
+        "S_pr": 0.6809,
+        "S_in": 0.5474,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.3
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 7,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 70.0,
+      "missing_skills_top10": [
+        "structured problem-solving",
+        "tensorflow",
+        "practical ai"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "synonym": 1,
+        "semantic": 3,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.38
+    },
+    "Eklavya|JD-4": {
+      "placement_score": 66.52,
+      "placement_score_raw_pct": 43.77,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.4047,
+        "S_pr": 0.6907,
+        "S_in": 0.533,
+        "S_we": 0.0417,
+        "S_ac": 0.0,
+        "S_ah": 0.3
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2222,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.1111
+      },
+      "matched_count": 8,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 46.67,
+      "missing_skills_top10": [
+        "tensorflow",
+        "keras",
+        "large language models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "open-source models",
+        "langchain"
+      ],
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.34
+    },
+    "Eklavya|JD-5": {
+      "placement_score": 66.19,
+      "placement_score_raw_pct": 43.49,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Software Engineer - Gen Ai",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.3576,
+        "S_pr": 0.7044,
+        "S_in": 0.5064,
+        "S_we": 0.0417,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2778,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0556
+      },
+      "matched_count": 8,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 46.97,
+      "missing_skills_top10": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "containerization",
+        "microservices architecture",
+        "financial crimes",
+        "openai apis"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 2,
+        "partial": 5
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.39
+    },
+    "Eklavya|JD-6": {
+      "placement_score": 70.47,
+      "placement_score_raw_pct": 47.18,
+      "match_level": "GOOD",
+      "domain_detected": "software_dev",
+      "role_title": "Full Stack Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.4616,
+        "S_pr": 0.6981,
+        "S_in": 0.4958,
+        "S_we": 0.0417,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2778,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0556
+      },
+      "matched_count": 6,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 66.67,
+      "missing_skills_top10": [
+        "object-oriented design",
+        "project planning",
+        "apis",
+        "ms office"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.36
+    },
+    "Eklavya|JD-7": {
+      "placement_score": 61.54,
+      "placement_score_raw_pct": 39.62,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Diligent Java Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.228,
+        "S_pr": 0.727,
+        "S_in": 0.5112,
+        "S_we": 0.0833,
+        "S_ac": 0.0,
+        "S_ah": 0.2
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2778,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0556
+      },
+      "matched_count": 6,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 28.57,
+      "missing_skills_top10": [
+        "spring boot",
+        "web apis",
+        "rest",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "firebase hosting",
+        "pusher.io",
+        "getstream.io",
+        "postmark app"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.42
+    },
+    "Eklavya|JD-8": {
+      "placement_score": 65.98,
+      "placement_score_raw_pct": 43.32,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Machine Learning Engineer",
+      "seniority_level": "lead",
+      "component_scores": {
+        "S_sk": 0.2821,
+        "S_pr": 0.7142,
+        "S_in": 0.5331,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.25
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 5,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 36.0,
+      "missing_skills_top10": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "apis",
+        "ml development",
+        "ml concepts",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "match_type_counts": {
+        "synonym": 2,
+        "semantic": 2,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.39
+    },
+    "Eklavya|JD-9": {
+      "placement_score": 73.27,
+      "placement_score_raw_pct": 49.65,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Business Analyst",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.4635,
+        "S_pr": 0.6747,
+        "S_in": 0.5002,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.25
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 9,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 54.24,
+      "missing_skills_top10": [
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card"
+      ],
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 2,
+        "semantic": 1,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.38
+    },
+    "Rohit|JD-1": {
+      "placement_score": 58.51,
+      "placement_score_raw_pct": 37.09,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "mid",
+      "component_scores": {
+        "S_sk": 0.3876,
+        "S_pr": 0.6199,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 7,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 48.28,
+      "missing_skills_top10": [
+        "data modeling",
+        "statistics",
+        "keras",
+        "pytorch",
+        "naive bayes",
+        "decision forests",
+        "data visualization tools",
+        "data representation methods"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 2,
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.24
+    },
+    "Rohit|JD-2": {
+      "placement_score": 54.2,
+      "placement_score_raw_pct": 33.5,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.3107,
+        "S_pr": 0.6288,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 10,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 35.24,
+      "missing_skills_top10": [
+        "game development",
+        "melbourne to vancouver",
+        "machine learning",
+        "generative ai",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "cloud-native applications",
+        "deployment pipelines",
+        "data science"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 1,
+        "semantic": 4,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "Rohit|JD-3": {
+      "placement_score": 53.18,
+      "placement_score_raw_pct": 32.65,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Artificial Intelligence Intern",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2919,
+        "S_pr": 0.632,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 40.0,
+      "missing_skills_top10": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "machine learning fundamentals",
+        "academic ai projects",
+        "practical ai"
+      ],
+      "match_type_counts": {
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.25
+    },
+    "Rohit|JD-4": {
+      "placement_score": 34.4,
+      "placement_score_raw_pct": 20.64,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.1089,
+        "S_pr": 0.6351,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 2,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 13.33,
+      "missing_skills_top10": [
+        "machine learning",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "learning models",
+        "product managers",
+        "sentiment detection",
+        "openai"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.23
+    },
+    "Rohit|JD-5": {
+      "placement_score": 49.54,
+      "placement_score_raw_pct": 29.72,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "software_dev",
+      "role_title": "Software Engineer - Gen Ai",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2761,
+        "S_pr": 0.6241,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 6,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 34.85,
+      "missing_skills_top10": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "efficient retrieval methods",
+        "containerization",
+        "microservices architecture",
+        "cd pipelines",
+        "financial crimes"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.3
+    },
+    "Rohit|JD-6": {
+      "placement_score": 67.34,
+      "placement_score_raw_pct": 44.45,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Full Stack Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.6306,
+        "S_pr": 0.6285,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 8,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 83.33,
+      "missing_skills_top10": [
+        "project planning",
+        "ms office"
+      ],
+      "match_type_counts": {
+        "synonym": 3,
+        "semantic": 2,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.22
+    },
+    "Rohit|JD-7": {
+      "placement_score": 55.13,
+      "placement_score_raw_pct": 34.28,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Diligent Java Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.3355,
+        "S_pr": 0.6957,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 9,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 38.96,
+      "missing_skills_top10": [
+        "spring boot",
+        "rest",
+        "efficient code",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "pusher.io",
+        "getstream.io",
+        "postmark app",
+        "as2 gateway"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "synonym": 1,
+        "semantic": 5,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "Rohit|JD-8": {
+      "placement_score": 59.31,
+      "placement_score_raw_pct": 37.76,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Machine Learning Engineer",
+      "seniority_level": "lead",
+      "component_scores": {
+        "S_sk": 0.3915,
+        "S_pr": 0.6363,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 7,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 52.0,
+      "missing_skills_top10": [
+        "simple rag concepts",
+        "memory fundamentals",
+        "ml development",
+        "ml concepts",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.27
+    },
+    "Rohit|JD-9": {
+      "placement_score": 47.44,
+      "placement_score_raw_pct": 28.47,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "data_science",
+      "role_title": "Business Analyst",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2452,
+        "S_pr": 0.5672,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 5,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 30.51,
+      "missing_skills_top10": [
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card",
+        "machine learning"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.25
+    },
+    "VIGNESH|JD-1": {
+      "placement_score": 85.45,
+      "placement_score_raw_pct": 61.19,
+      "match_level": "EXCELLENT",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "mid",
+      "component_scores": {
+        "S_sk": 0.6051,
+        "S_pr": 0.736,
+        "S_in": 0.5368,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 11,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 72.41,
+      "missing_skills_top10": [
+        "software architecture",
+        "keras",
+        "naive bayes",
+        "decision forests"
+      ],
+      "match_type_counts": {
+        "exact": 5,
+        "synonym": 2,
+        "semantic": 2,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "VIGNESH|JD-2": {
+      "placement_score": 68.23,
+      "placement_score_raw_pct": 45.2,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.3422,
+        "S_pr": 0.6115,
+        "S_in": 0.5303,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.4
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 11,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 39.05,
+      "missing_skills_top10": [
+        "melbourne to vancouver",
+        "generative ai applications",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "apis",
+        "cloud-native applications",
+        "cloud infrastructure",
+        "deployment pipelines",
+        "ml application development"
+      ],
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 1,
+        "semantic": 1,
+        "partial": 5
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.39
+    },
+    "VIGNESH|JD-3": {
+      "placement_score": 77.89,
+      "placement_score_raw_pct": 53.73,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Artificial Intelligence Intern",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.3925,
+        "S_pr": 0.7823,
+        "S_in": 0.5732,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 5,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 50.0,
+      "missing_skills_top10": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "practical ai"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 2,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.31
+    },
+    "VIGNESH|JD-4": {
+      "placement_score": 63.61,
+      "placement_score_raw_pct": 41.34,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2768,
+        "S_pr": 0.6599,
+        "S_in": 0.5381,
+        "S_we": 0.125,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2222,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.1111
+      },
+      "matched_count": 6,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 33.33,
+      "missing_skills_top10": [
+        "neural networks",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "large language models",
+        "product managers",
+        "sentiment detection",
+        "openai",
+        "open-source models",
+        "langchain"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "VIGNESH|JD-5": {
+      "placement_score": 63.69,
+      "placement_score_raw_pct": 41.41,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Software Engineer - Gen Ai",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2661,
+        "S_pr": 0.6358,
+        "S_in": 0.5706,
+        "S_we": 0.125,
+        "S_ac": 0.0,
+        "S_ah": 0.45
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2778,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0556
+      },
+      "matched_count": 6,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 34.85,
+      "missing_skills_top10": [
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "ui",
+        "vector databases",
+        "containerization",
+        "microservices architecture",
+        "cd pipelines",
+        "financial crimes"
+      ],
+      "match_type_counts": {
+        "exact": 1,
+        "semantic": 1,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.36
+    },
+    "VIGNESH|JD-6": {
+      "placement_score": 75.49,
+      "placement_score_raw_pct": 51.61,
+      "match_level": "GOOD",
+      "domain_detected": "software_dev",
+      "role_title": "Full Stack Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.5512,
+        "S_pr": 0.6271,
+        "S_in": 0.5485,
+        "S_we": 0.125,
+        "S_ac": 0.0,
+        "S_ah": 0.4
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2778,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0556
+      },
+      "matched_count": 7,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 72.22,
+      "missing_skills_top10": [
+        "object-oriented design",
+        "project planning",
+        "apis"
+      ],
+      "match_type_counts": {
+        "exact": 3,
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "VIGNESH|JD-7": {
+      "placement_score": 74.92,
+      "placement_score_raw_pct": 51.11,
+      "match_level": "GOOD",
+      "domain_detected": "software_dev",
+      "role_title": "Diligent Java Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.4289,
+        "S_pr": 0.6898,
+        "S_in": 0.5826,
+        "S_we": 0.25,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.3889,
+        "projects_weight": 0.2778,
+        "internship_weight": 0.1667,
+        "experience_weight": 0.1111,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0556
+      },
+      "matched_count": 12,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 51.95,
+      "missing_skills_top10": [
+        "spring boot",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "firebase hosting",
+        "pusher.io",
+        "getstream.io",
+        "postmark app",
+        "as2 gateway",
+        "gitlab"
+      ],
+      "match_type_counts": {
+        "exact": 5,
+        "semantic": 1,
+        "partial": 6
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.34
+    },
+    "VIGNESH|JD-8": {
+      "placement_score": 72.81,
+      "placement_score_raw_pct": 49.24,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Machine Learning Engineer",
+      "seniority_level": "lead",
+      "component_scores": {
+        "S_sk": 0.3347,
+        "S_pr": 0.7271,
+        "S_in": 0.5426,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.5
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 6,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 44.0,
+      "missing_skills_top10": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "apis",
+        "ml development",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "semantic": 3,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "VIGNESH|JD-9": {
+      "placement_score": 73.43,
+      "placement_score_raw_pct": 49.79,
+      "match_level": "GOOD",
+      "domain_detected": "data_science",
+      "role_title": "Business Analyst",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.4193,
+        "S_pr": 0.6644,
+        "S_in": 0.4911,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.45
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.125
+      },
+      "matched_count": 8,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 49.15,
+      "missing_skills_top10": [
+        "nonlinear models",
+        "macroeconomic forecast",
+        "cluster analysis",
+        "neural networks",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card",
+        "advanced analytics"
+      ],
+      "match_type_counts": {
+        "exact": 4,
+        "synonym": 1,
+        "semantic": 2,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "Wallace|JD-1": {
+      "placement_score": 39.67,
+      "placement_score_raw_pct": 23.8,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "mid",
+      "component_scores": {
+        "S_sk": 0.1096,
+        "S_pr": 0.6413,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 2,
+      "total_jd_skills": 15,
+      "skill_coverage_pct": 13.79,
+      "missing_skills_top10": [
+        "data structures",
+        "data modeling",
+        "software architecture",
+        "statistics",
+        "java",
+        "keras",
+        "pytorch",
+        "scikit-learn",
+        "naive bayes",
+        "decision forests"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "Wallace|JD-2": {
+      "placement_score": 41.31,
+      "placement_score_raw_pct": 24.78,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.1491,
+        "S_pr": 0.6065,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 5,
+      "total_jd_skills": 29,
+      "skill_coverage_pct": 18.1,
+      "missing_skills_top10": [
+        "game development",
+        "melbourne to vancouver",
+        "generative ai",
+        "cloud platforms",
+        "workflows involving llms",
+        "rag pipelines",
+        "intelligent agents",
+        "cloud infrastructure",
+        "deployment pipelines",
+        "data science"
+      ],
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.33
+    },
+    "Wallace|JD-3": {
+      "placement_score": 53.79,
+      "placement_score_raw_pct": 33.16,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Artificial Intelligence Intern",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.2475,
+        "S_pr": 0.7273,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 3,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 36.67,
+      "missing_skills_top10": [
+        "structured problem-solving",
+        "tensorflow",
+        "pytorch basics",
+        "academic ai projects",
+        "intelligent data systems",
+        "data science",
+        "practical ai"
+      ],
+      "match_type_counts": {
+        "semantic": 2,
+        "partial": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.25
+    },
+    "Wallace|JD-4": {
+      "placement_score": 43.21,
+      "placement_score_raw_pct": 25.92,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "data_science",
+      "role_title": "not_specified",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.1989,
+        "S_pr": 0.6889,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4375,
+        "projects_weight": 0.25,
+        "internship_weight": 0.1875,
+        "experience_weight": 0.125,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 26.67,
+      "missing_skills_top10": [
+        "neural networks",
+        "transformer models",
+        "tensorflow",
+        "keras",
+        "pytorch",
+        "large language models",
+        "product managers",
+        "openai",
+        "open-source models",
+        "langchain"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.24
+    },
+    "Wallace|JD-5": {
+      "placement_score": 35.74,
+      "placement_score_raw_pct": 21.44,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "software_dev",
+      "role_title": "Software Engineer - Gen Ai",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.0529,
+        "S_pr": 0.655,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 1,
+      "total_jd_skills": 17,
+      "skill_coverage_pct": 6.06,
+      "missing_skills_top10": [
+        "java",
+        "llm orchestration frameworks",
+        "langchain",
+        "rag architectures",
+        "embedding techniques",
+        "model evaluation frameworks",
+        "ui",
+        "vector databases",
+        "efficient retrieval methods",
+        "containerization"
+      ],
+      "match_type_counts": {
+        "synonym": 1
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "Wallace|JD-6": {
+      "placement_score": 39.49,
+      "placement_score_raw_pct": 23.69,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "software_dev",
+      "role_title": "Full Stack Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.1258,
+        "S_pr": 0.6295,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 2,
+      "total_jd_skills": 10,
+      "skill_coverage_pct": 16.67,
+      "missing_skills_top10": [
+        "object-oriented design",
+        "amazon web services",
+        "aws",
+        "object oriented design",
+        "computer science",
+        "data structures",
+        "project planning",
+        "ms office"
+      ],
+      "match_type_counts": {
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.27
+    },
+    "Wallace|JD-7": {
+      "placement_score": 52.89,
+      "placement_score_raw_pct": 32.41,
+      "match_level": "MODERATE",
+      "domain_detected": "software_dev",
+      "role_title": "Diligent Java Developer",
+      "seniority_level": "junior",
+      "component_scores": {
+        "S_sk": 0.297,
+        "S_pr": 0.6861,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.4118,
+        "projects_weight": 0.2941,
+        "internship_weight": 0.1765,
+        "experience_weight": 0.1176,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 8,
+      "total_jd_skills": 24,
+      "skill_coverage_pct": 35.06,
+      "missing_skills_top10": [
+        "spring boot",
+        "database",
+        "java",
+        "mysql",
+        "nosql",
+        "nginx plus",
+        "app engine",
+        "scrapy cloud",
+        "pusher.io",
+        "getstream.io"
+      ],
+      "match_type_counts": {
+        "exact": 2,
+        "semantic": 2,
+        "partial": 4
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.25
+    },
+    "Wallace|JD-8": {
+      "placement_score": 52.07,
+      "placement_score_raw_pct": 31.72,
+      "match_level": "MODERATE",
+      "domain_detected": "data_science",
+      "role_title": "Machine Learning Engineer",
+      "seniority_level": "lead",
+      "component_scores": {
+        "S_sk": 0.2229,
+        "S_pr": 0.7203,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 4,
+      "total_jd_skills": 14,
+      "skill_coverage_pct": 32.0,
+      "missing_skills_top10": [
+        "simple rag concepts",
+        "tool integration",
+        "memory fundamentals",
+        "cloud storage",
+        "data engineering",
+        "ml development",
+        "preferably gcp",
+        "ai workflows",
+        "cloud run",
+        "data handling policies"
+      ],
+      "match_type_counts": {
+        "semantic": 1,
+        "partial": 3
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.28
+    },
+    "Wallace|JD-9": {
+      "placement_score": 40.57,
+      "placement_score_raw_pct": 24.34,
+      "match_level": "BELOW AVERAGE",
+      "domain_detected": "data_science",
+      "role_title": "Business Analyst",
+      "seniority_level": "intern",
+      "component_scores": {
+        "S_sk": 0.1458,
+        "S_pr": 0.5968,
+        "S_in": 0.0,
+        "S_we": 0.0,
+        "S_ac": 0.0,
+        "S_ah": 0.0
+      },
+      "effective_weights": {
+        "skills_weight": 0.5,
+        "projects_weight": 0.2857,
+        "internship_weight": 0.2143,
+        "experience_weight": 0.0,
+        "academics_weight": 0.0,
+        "achievements_weight": 0.0
+      },
+      "matched_count": 3,
+      "total_jd_skills": 16,
+      "skill_coverage_pct": 18.64,
+      "missing_skills_top10": [
+        "sql",
+        "statistical techniques",
+        "nonlinear models",
+        "logistic regression",
+        "macroeconomic forecast",
+        "decision trees",
+        "cluster analysis",
+        "cards pl",
+        "forecasting methodologies",
+        "credit card"
+      ],
+      "match_type_counts": {
+        "synonym": 1,
+        "partial": 2
+      },
+      "llm_backend": "none",
+      "embedding_backend": "sbert",
+      "warnings_count": 0,
+      "pair_seconds": 0.25
+    }
+  },
+  "failures": []
+}

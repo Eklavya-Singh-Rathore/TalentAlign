@@ -1,0 +1,8 @@
+# Caches (models, LLM responses, pytest)
+.cache/
+__pycache__/
+.pytest_cache/
+
+# Local environment
+.env
+*.local

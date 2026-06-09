@@ -1,0 +1,126 @@
+{
+  "schema_version": "1.0",
+  "default_profile": "software_dev",
+  "profiles": {
+    "software_dev": {
+      "skills_weight": 0.35,
+      "projects_weight": 0.25,
+      "internship_weight": 0.15,
+      "experience_weight": 0.1,
+      "academics_weight": 0.1,
+      "achievements_weight": 0.05,
+      "_metadata": {
+        "description": "Balanced profile for software development roles emphasizing skills and projects.",
+        "version": 1,
+        "last_modified": "2026-04-14T10:00:00Z"
+      }
+    },
+    "data_science": {
+      "skills_weight": 0.35,
+      "projects_weight": 0.2,
+      "internship_weight": 0.15,
+      "experience_weight": 0.1,
+      "academics_weight": 0.1,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Profile for data science / ML roles. Higher achievements weight for publications.",
+        "version": 1,
+        "last_modified": "2026-04-14T10:00:00Z"
+      }
+    },
+    "business": {
+      "skills_weight": 0.25,
+      "projects_weight": 0.1,
+      "internship_weight": 0.2,
+      "experience_weight": 0.25,
+      "academics_weight": 0.1,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Profile for business/MBA roles. Heavy emphasis on work experience and internships.",
+        "version": 1,
+        "last_modified": "2026-04-14T10:00:00Z"
+      }
+    },
+    "freshers": {
+      "skills_weight": 0.4,
+      "projects_weight": 0.25,
+      "internship_weight": 0.1,
+      "experience_weight": 0.0,
+      "academics_weight": 0.2,
+      "achievements_weight": 0.05,
+      "_metadata": {
+        "description": "Profile for fresh graduates. Zero work experience weight; academics boosted.",
+        "version": 1,
+        "last_modified": "2026-04-14T10:00:00Z"
+      }
+    },
+    "devops": {
+      "skills_weight": 0.4,
+      "projects_weight": 0.2,
+      "internship_weight": 0.1,
+      "experience_weight": 0.15,
+      "academics_weight": 0.05,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Profile for DevOps / SRE / infrastructure roles. Skills-heavy, reduced academics.",
+        "version": 2,
+        "last_modified": "2026-06-03T00:00:00Z"
+      }
+    },
+    "cybersecurity": {
+      "skills_weight": 0.35,
+      "projects_weight": 0.15,
+      "internship_weight": 0.15,
+      "experience_weight": 0.15,
+      "academics_weight": 0.1,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Profile for cybersecurity roles. Balanced with certifications/achievements weight.",
+        "version": 2,
+        "last_modified": "2026-06-03T00:00:00Z"
+      }
+    },
+    "product_management": {
+      "skills_weight": 0.25,
+      "projects_weight": 0.2,
+      "internship_weight": 0.15,
+      "experience_weight": 0.2,
+      "academics_weight": 0.1,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Profile for product management roles. Balanced across skills, experience, and projects.",
+        "version": 2,
+        "last_modified": "2026-06-03T00:00:00Z"
+      }
+    },
+    "design": {
+      "skills_weight": 0.3,
+      "projects_weight": 0.3,
+      "internship_weight": 0.15,
+      "experience_weight": 0.1,
+      "academics_weight": 0.05,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Profile for UI/UX and design roles. Portfolio/projects heavily weighted.",
+        "version": 2,
+        "last_modified": "2026-06-03T00:00:00Z"
+      }
+    },
+    "custom": {
+      "skills_weight": 0.3,
+      "projects_weight": 0.2,
+      "internship_weight": 0.15,
+      "experience_weight": 0.15,
+      "academics_weight": 0.1,
+      "achievements_weight": 0.1,
+      "_metadata": {
+        "description": "Custom template profile. Admins can modify this for institution-specific weighting.",
+        "version": 1,
+        "last_modified": "2026-04-14T10:00:00Z"
+      }
+    }
+  },
+  "adaptive_mode": false,
+  "adaptive_nudge": 0.05,
+  "adaptive_low_score_threshold": 0.3
+}

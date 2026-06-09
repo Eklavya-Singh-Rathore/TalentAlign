@@ -1,0 +1,297 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 67% 97.3%;
+    --foreground: 222 47% 11.2%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11.2%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11.2%;
+
+    --primary: 223 89% 63.1%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 214 32% 91%;
+    --secondary-foreground: 222 47% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215 16% 47%;
+
+    --accent: 223 89% 63.1%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 223 89% 63.1%;
+
+    --radius: 1rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.4);
+}
+
+/* Glassmorphism details */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+/* Custom transitions and animations */
+.transition-all-300 {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-slide-in {
+  animation: slide-in 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.2s ease-out forwards;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, #f1f5f9 25%, #e2e8f0 50%, #f1f5f9 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+
+/* Gauge anim */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
+}
+
+/* ──────────────────────────────────────────────────────────────────
+   Print / PDF Styles
+   Uses data-print-role attributes for reliable targeting.
+   Hides app chrome; lets report cards flow across pages.
+   ────────────────────────────────────────────────────────────────── */
+
+/* Print-only header — hidden in screen mode */
+.print-only-header {
+  display: none;
+}
+
+@media print {
+
+  /* ── Page Setup ─────────────────────────────────────────────── */
+  @page {
+    size: portrait;
+    margin: 15mm 12mm;
+  }
+
+  /* ── Print page settings ────────────────────────────── */
+  html,
+  body {
+    height: auto !important;
+    overflow: visible !important;
+    background: #ffffff !important;
+    color: #0f172a !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+    color-adjust: exact !important;
+  }
+
+  /* ── Hide app chrome (sidebar, header, overlays, buttons) ──── */
+  [data-print-role="sidebar"],
+  [data-print-role="header-bar"],
+  [data-print-role="mobile-overlay"],
+  [data-print-role="loading"],
+  .print-hide,
+  button,
+  .btn,
+  [role="tablist"] {
+    display: none !important;
+  }
+
+  /* ── Show the print-only report header ─────────────────────── */
+  .print-only-header {
+    display: block !important;
+    padding-bottom: 12px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  /* ── Unlock the viewport-locked shell ───────────────────────── */
+  [data-print-role="root"] {
+    display: block !important;
+    height: auto !important;
+    width: 100% !important;
+    overflow: visible !important;
+  }
+
+  [data-print-role="content-wrapper"] {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  [data-print-role="main-canvas"] {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    max-height: none !important;
+    padding: 0 !important;
+    position: static !important;
+    background: transparent !important;
+  }
+
+  /* ── Let the report container flow naturally ────────────────── */
+  .print-report {
+    overflow: visible !important;
+    height: auto !important;
+    max-height: none !important;
+    width: 100% !important;
+  }
+
+  /* ── Prevent Card Clipping ──────────────────────────────────── */
+  .report-section,
+  .card,
+  [class*="Card"],
+  div,
+  table,
+  tbody,
+  thead,
+  tr,
+  td,
+  span,
+  p {
+    overflow: visible !important;
+  }
+
+  /* ── Page-break control ─────────────────────────────────────── */
+  .report-section {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    margin-bottom: 8mm;
+  }
+
+  /* Prevent row splitting inside tables and list items */
+  tr, 
+  tr *, 
+  li, 
+  .px-5.py-3.5 {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  /* Keep headings with their following content */
+  h1,
+  h2,
+  h3,
+  h4 {
+    page-break-after: avoid;
+    break-after: avoid;
+    color: #0f172a !important;
+  }
+
+  /* Allow breaks between top-level sections */
+  .print-report>* {
+    page-break-before: auto;
+    break-before: auto;
+  }
+
+  .report-footer {
+    margin-top: 16px;
+    page-break-before: avoid;
+    break-before: avoid;
+  }
+
+  /* ── Recharts Responsive Print Scaling ──────────────────────── */
+  .recharts-responsive-container {
+    width: 100% !important;
+    height: 280px !important;
+    min-height: 280px !important;
+  }
+
+  /* ── Disable animations ─────────────────────────────────────── */
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0s !important;
+    transition-duration: 0s !important;
+  }
+
+  /* ── Remove decorative shadows ──────────────────────────────── */
+  .shadow-md,
+  .shadow-lg,
+  .shadow-sm,
+  .shadow-xs {
+    box-shadow: none !important;
+    border-color: #cbd5e1 !important; /* solid slate-300 borders in print */
+  }
+}
