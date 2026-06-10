@@ -21,6 +21,7 @@ Phase 5 (Matching Optimization) is the natural home for tuning the
 embedding model choice, thresholds, and similarity blending — this
 module only provides the substrate.
 """
+import os
 
 from __future__ import annotations
 
@@ -236,10 +237,19 @@ _default_provider: Optional[EmbeddingProvider] = None
 
 
 def get_embedding_provider() -> EmbeddingProvider:
-    """Return the process-wide default EmbeddingProvider (auto backend)."""
+    """Return the process-wide default EmbeddingProvider."""
     global _default_provider
+
     if _default_provider is None:
-        _default_provider = EmbeddingProvider(backend=BACKEND_AUTO)
+        env_backend = os.environ.get(
+            "TALENTALIGN_EMBEDDING_BACKEND", ""
+        ).strip().lower()
+
+        if env_backend in _VALID_BACKENDS:
+            _default_provider = EmbeddingProvider(backend=env_backend)
+        else:
+            _default_provider = EmbeddingProvider(backend=BACKEND_AUTO)
+
     return _default_provider
 
 
