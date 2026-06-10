@@ -21,9 +21,10 @@ Phase 5 (Matching Optimization) is the natural home for tuning the
 embedding model choice, thresholds, and similarity blending — this
 module only provides the substrate.
 """
-import os
 
 from __future__ import annotations
+
+import os
 
 import logging
 import re
