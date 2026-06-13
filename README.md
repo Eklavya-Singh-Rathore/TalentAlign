@@ -6,7 +6,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-talent--align.vercel.app-4f7df3?style=for-the-badge&logo=vercel)](https://talent-align.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
-[![Documentation]](DEPLOYMENT.md)
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)](Main/backend/requirements.txt)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
