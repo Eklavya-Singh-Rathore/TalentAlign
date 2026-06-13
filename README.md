@@ -44,9 +44,6 @@ identical to the baseline.
 Upload & Match · Match Overview · Component Alignment · Gap Analysis ·
 Recommendations · Report & Export.
 
-See [`CPPS_revamp_plan.md`](CPPS_revamp_plan.md) for the full spec and
-[`DEPLOYMENT.md`](DEPLOYMENT.md) for production deployment.
-
 ---
 
 ## Quick start (local dev)
@@ -103,11 +100,7 @@ LLM_BACKEND=none TALENTALIGN_EMBEDDING_BACKEND=tfidf pytest tests/ -q
 │       ├── vercel.json
 │       └── README.md             Frontend deep-dive
 ├── .github/workflows/ci.yml      Backend test suite on push + PR
-├── CPPS_revamp_plan.md           Master plan + phase status
 ├── DEPLOYMENT.md                 Production deployment runbook
-├── TalentAlign_Pre-Structure_Audit_Report.md
-├── TalentAlign_Comprehensive_Verification_Pre-Structure_Audit.md
-├── GITHUB_CLEANUP_REPORT.md      This repo's cleanup audit record
 ├── README.md                     ← you are here
 └── LICENSE                       MIT
 ```
